@@ -3,7 +3,11 @@
   "title": "Daggerheart - Português (Brasil)",
   "description": "Tradução do sistema Daggerheart para o português (Brasil)",
   "version": "0.0.2",
-  "author": "Gui Fabricio",
+  "authors": [
+    {
+      "name": "Gui Fabricio"
+    }
+  ],
   "minimumCoreVersion": "12",
   "compatibleCoreVersion": "13",
   "esmodules": ["babele-register.js"],
