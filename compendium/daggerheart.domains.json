@@ -1,0 +1,593 @@
+{
+  "label": "Domains",
+  "folders": {
+    "Level 1": "Level 1",
+    "Arcana": "Arcana",
+    "Level 2": "Level 2",
+    "Level 3": "Level 3",
+    "Level 4": "Level 4",
+    "Level 5": "Level 5",
+    "Level 6": "Level 6",
+    "Level 7": "Level 7",
+    "Level 8": "Level 8",
+    "Level 9": "Level 9",
+    "Blade": "Blade",
+    "Bone": "Bone",
+    "Codex": "Codex",
+    "Grace": "Grace",
+    "Midnight": "Midnight",
+    "Level 10": "Level 10",
+    "Sage": "Sage",
+    "Valor": "Valor",
+    "Splendor": "Splendor"
+  },
+  "entries": {
+    "Forager": {
+      "name": "Forager"
+    },
+    "Chain Lightning": {
+      "name": "Chain Lightning"
+    },
+    "Phantom Retreat": {
+      "name": "Phantom Retreat"
+    },
+    "Wall Walk": {
+      "name": "Wall Walk"
+    },
+    "Book of Tyfar": {
+      "name": "Book of Tyfar"
+    },
+    "Preservation Blast": {
+      "name": "Preservation Blast"
+    },
+    "Hypnotic Shimmer": {
+      "name": "Hypnotic Shimmer"
+    },
+    "Reckless": {
+      "name": "Reckless"
+    },
+    "Deft Deceiver": {
+      "name": "Deft Deceiver"
+    },
+    "Copycat": {
+      "name": "Copycat"
+    },
+    "Gore and Glory": {
+      "name": "Gore and Glory"
+    },
+    "Salvation Beam": {
+      "name": "Salvation Beam"
+    },
+    "Flight": {
+      "name": "Flight"
+    },
+    "Cinder Grasp": {
+      "name": "Cinder Grasp"
+    },
+    "Arcana-Touched": {
+      "name": "Arcana-Touched"
+    },
+    "Strategic Approach": {
+      "name": "Strategic Approach"
+    },
+    "Scramble": {
+      "name": "Scramble"
+    },
+    "Eclipse": {
+      "name": "Eclipse"
+    },
+    "Counterspell": {
+      "name": "Counterspell"
+    },
+    "Codex-Touched": {
+      "name": "Codex-Touched"
+    },
+    "Through Your Eyes": {
+      "name": "Through Your Eyes"
+    },
+    "Breaking Blow": {
+      "name": "Breaking Blow"
+    },
+    "Share the Burden": {
+      "name": "Share the Burden"
+    },
+    "Wrangle": {
+      "name": "Wrangle"
+    },
+    "Untouchable": {
+      "name": "Untouchable"
+    },
+    "Plant Dominion": {
+      "name": "Plant Dominion"
+    },
+    "Wild Fortress": {
+      "name": "Wild Fortress"
+    },
+    "Shadowhunter": {
+      "name": "Shadowhunter"
+    },
+    "Critical Inspiration": {
+      "name": "Critical Inspiration"
+    },
+    "Banish": {
+      "name": "Banish"
+    },
+    "Thought Delver": {
+      "name": "Thought Delver"
+    },
+    "Glyph of Nightfall": {
+      "name": "Glyph of Nightfall"
+    },
+    "Get Back Up": {
+      "name": "Get Back Up"
+    },
+    "Bolt Beacon": {
+      "name": "Bolt Beacon"
+    },
+    "Lean on Me": {
+      "name": "Lean on Me"
+    },
+    "Earthquake": {
+      "name": "Earthquake"
+    },
+    "Unbreakable": {
+      "name": "Unbreakable"
+    },
+    "Wild Surge": {
+      "name": "Wild Surge"
+    },
+    "Battle Cry": {
+      "name": "Battle Cry"
+    },
+    "Fane of the Wilds": {
+      "name": "Fane of the Wilds"
+    },
+    "Midnight Spirit": {
+      "name": "Midnight Spirit"
+    },
+    "Telekinesis": {
+      "name": "Telekinesis"
+    },
+    "Vanishing Dodge": {
+      "name": "Vanishing Dodge"
+    },
+    "Rune Ward": {
+      "name": "Rune Ward"
+    },
+    "Rage Up": {
+      "name": "Rage Up"
+    },
+    "Blade-Touched": {
+      "name": "Blade-Touched"
+    },
+    "Healing Field": {
+      "name": "Healing Field"
+    },
+    "Swift Step": {
+      "name": "Swift Step"
+    },
+    "Tell No Lies": {
+      "name": "Tell No Lies"
+    },
+    "Pick and Pull": {
+      "name": "Pick and Pull"
+    },
+    "Teleport": {
+      "name": "Teleport"
+    },
+    "Rejuvenation Barrier": {
+      "name": "Rejuvenation Barrier"
+    },
+    "Goad Them On": {
+      "name": "Goad Them On"
+    },
+    "Onslaught": {
+      "name": "Onslaught"
+    },
+    "Notorious": {
+      "name": "Notorious"
+    },
+    "Book of Yarrow": {
+      "name": "Book of Yarrow"
+    },
+    "Splendor-Touched": {
+      "name": "Splendor-Touched"
+    },
+    "Conjured Steeds": {
+      "name": "Conjured Steeds"
+    },
+    "Troublemaker": {
+      "name": "Troublemaker"
+    },
+    "Forest Sprites": {
+      "name": "Forest Sprites"
+    },
+    "Shrug It Off": {
+      "name": "Shrug It Off"
+    },
+    "Arcane Reflection": {
+      "name": "Arcane Reflection"
+    },
+    "Divination": {
+      "name": "Divination"
+    },
+    "Grace-Touched": {
+      "name": "Grace-Touched"
+    },
+    "Invisibility": {
+      "name": "Invisibility"
+    },
+    "I Am Your Shield": {
+      "name": "I Am Your Shield"
+    },
+    "I See It Coming": {
+      "name": "I See It Coming"
+    },
+    "Signature Move": {
+      "name": "Signature Move"
+    },
+    "Force of Nature": {
+      "name": "Force of Nature"
+    },
+    "Reaper’s Strike": {
+      "name": "Reaper’s Strike"
+    },
+    "Frenzy": {
+      "name": "Frenzy"
+    },
+    "Never Upstaged": {
+      "name": "Never Upstaged"
+    },
+    "Stealth Expertise": {
+      "name": "Stealth Expertise"
+    },
+    "Final Words": {
+      "name": "Final Words"
+    },
+    "Battle-Hardened": {
+      "name": "Battle-Hardened"
+    },
+    "Know Thy Enemy": {
+      "name": "Know Thy Enemy"
+    },
+    "Bone-Touched": {
+      "name": "Bone-Touched"
+    },
+    "Life Ward": {
+      "name": "Life Ward"
+    },
+    "Battle Monster": {
+      "name": "Battle Monster"
+    },
+    "Soothing Speech": {
+      "name": "Soothing Speech"
+    },
+    "Brace": {
+      "name": "Brace"
+    },
+    "Blink Out": {
+      "name": "Blink Out"
+    },
+    "Book of Grynn": {
+      "name": "Book of Grynn"
+    },
+    "Chokehold": {
+      "name": "Chokehold"
+    },
+    "Confusing Aura": {
+      "name": "Confusing Aura"
+    },
+    "Sigil of Retribution": {
+      "name": "Sigil of Retribution"
+    },
+    "Twilight Toll": {
+      "name": "Twilight Toll"
+    },
+    "Book of Ronin": {
+      "name": "Book of Ronin"
+    },
+    "Full Surge": {
+      "name": "Full Surge"
+    },
+    "Mending Touch": {
+      "name": "Mending Touch"
+    },
+    "Uncanny Disguise": {
+      "name": "Uncanny Disguise"
+    },
+    "Splintering Strike": {
+      "name": "Splintering Strike"
+    },
+    "Natural Familiar": {
+      "name": "Natural Familiar"
+    },
+    "Manifest Wall": {
+      "name": "Manifest Wall"
+    },
+    "Smite": {
+      "name": "Smite"
+    },
+    "Rain of Blades": {
+      "name": "Rain of Blades"
+    },
+    "Boost": {
+      "name": "Boost"
+    },
+    "Book of Vyola": {
+      "name": "Book of Vyola"
+    },
+    "Sage-Touched": {
+      "name": "Sage-Touched"
+    },
+    "Gifted Tracker": {
+      "name": "Gifted Tracker"
+    },
+    "Tactician": {
+      "name": "Tactician"
+    },
+    "Healing Hands": {
+      "name": "Healing Hands"
+    },
+    "Ground Pound": {
+      "name": "Ground Pound"
+    },
+    "Book of Norai": {
+      "name": "Book of Norai"
+    },
+    "Tempest": {
+      "name": "Tempest"
+    },
+    "Invigoration": {
+      "name": "Invigoration"
+    },
+    "Inevitable": {
+      "name": "Inevitable"
+    },
+    "Healing Strike": {
+      "name": "Healing Strike"
+    },
+    "A Soldier’s Bond": {
+      "name": "A Soldier’s Bond"
+    },
+    "Astral Projection": {
+      "name": "Astral Projection"
+    },
+    "Lead by Example": {
+      "name": "Lead by Example"
+    },
+    "Book of Ava": {
+      "name": "Book of Ava"
+    },
+    "Cloaking Blast": {
+      "name": "Cloaking Blast"
+    },
+    "Words of Discord": {
+      "name": "Words of Discord"
+    },
+    "Adjust Reality": {
+      "name": "Adjust Reality"
+    },
+    "Enrapture": {
+      "name": "Enrapture"
+    },
+    "Premonition": {
+      "name": "Premonition"
+    },
+    "Body Basher": {
+      "name": "Body Basher"
+    },
+    "Book of Vagras": {
+      "name": "Book of Vagras"
+    },
+    "Whirlwind": {
+      "name": "Whirlwind"
+    },
+    "Nature’s Tongue": {
+      "name": "Nature’s Tongue"
+    },
+    "Cruel Precision": {
+      "name": "Cruel Precision"
+    },
+    "Book of Korvax": {
+      "name": "Book of Korvax"
+    },
+    "Inspirational Words": {
+      "name": "Inspirational Words"
+    },
+    "Armorer": {
+      "name": "Armorer"
+    },
+    "Mass Disguise": {
+      "name": "Mass Disguise"
+    },
+    "Shape Material": {
+      "name": "Shape Material"
+    },
+    "Deft Maneuvers": {
+      "name": "Deft Maneuvers"
+    },
+    "Book of Illiat": {
+      "name": "Book of Illiat"
+    },
+    "Book of Sitil": {
+      "name": "Book of Sitil"
+    },
+    "Spellcharge": {
+      "name": "Spellcharge"
+    },
+    "Redirect": {
+      "name": "Redirect"
+    },
+    "Second Wind": {
+      "name": "Second Wind"
+    },
+    "Book of Homet": {
+      "name": "Book of Homet"
+    },
+    "Veil of Night": {
+      "name": "Veil of Night"
+    },
+    "Sensory Projection": {
+      "name": "Sensory Projection"
+    },
+    "Recovery": {
+      "name": "Recovery"
+    },
+    "Hush": {
+      "name": "Hush"
+    },
+    "Falling Sky": {
+      "name": "Falling Sky"
+    },
+    "Overwhelming Aura": {
+      "name": "Overwhelming Aura"
+    },
+    "Specter of the Dark": {
+      "name": "Specter of the Dark"
+    },
+    "Reassurance": {
+      "name": "Reassurance"
+    },
+    "Ferocity": {
+      "name": "Ferocity"
+    },
+    "Valor-Touched": {
+      "name": "Valor-Touched"
+    },
+    "Transcendent Union": {
+      "name": "Transcendent Union"
+    },
+    "Hold the Line": {
+      "name": "Hold the Line"
+    },
+    "Shadowbind": {
+      "name": "Shadowbind"
+    },
+    "Disintegration Wave": {
+      "name": "Disintegration Wave"
+    },
+    "Encore": {
+      "name": "Encore"
+    },
+    "Bare Bones": {
+      "name": "Bare Bones"
+    },
+    "Zone of Protection": {
+      "name": "Zone of Protection"
+    },
+    "Stunning Sunlight": {
+      "name": "Stunning Sunlight"
+    },
+    "Safe Haven": {
+      "name": "Safe Haven"
+    },
+    "Towering Stalk": {
+      "name": "Towering Stalk"
+    },
+    "Glancing Blow": {
+      "name": "Glancing Blow"
+    },
+    "Unleash Chaos": {
+      "name": "Unleash Chaos"
+    },
+    "Rise Up": {
+      "name": "Rise Up"
+    },
+    "Thorn Skin": {
+      "name": "Thorn Skin"
+    },
+    "Fortified Armor": {
+      "name": "Fortified Armor"
+    },
+    "Book of Exota": {
+      "name": "Book of Exota"
+    },
+    "Rousing Strike": {
+      "name": "Rousing Strike"
+    },
+    "Corrosive Projectile": {
+      "name": "Corrosive Projectile"
+    },
+    "Vicious Entangle": {
+      "name": "Vicious Entangle"
+    },
+    "Conjure Swarm": {
+      "name": "Conjure Swarm"
+    },
+    "Shield Aura": {
+      "name": "Shield Aura"
+    },
+    "Champion’s Edge": {
+      "name": "Champion’s Edge"
+    },
+    "Unyielding Armor": {
+      "name": "Unyielding Armor"
+    },
+    "Vitality": {
+      "name": "Vitality"
+    },
+    "Support Tank": {
+      "name": "Support Tank"
+    },
+    "Voice of Reason": {
+      "name": "Voice of Reason"
+    },
+    "Endless Charisma": {
+      "name": "Endless Charisma"
+    },
+    "Rapid Riposte": {
+      "name": "Rapid Riposte"
+    },
+    "Bold Presence": {
+      "name": "Bold Presence"
+    },
+    "Midnight-Touched": {
+      "name": "Midnight-Touched"
+    },
+    "Mass Enrapture": {
+      "name": "Mass Enrapture"
+    },
+    "Rift Walker": {
+      "name": "Rift Walker"
+    },
+    "Floating Eye": {
+      "name": "Floating Eye"
+    },
+    "Versatile Fighter": {
+      "name": "Versatile Fighter"
+    },
+    "Restoration": {
+      "name": "Restoration"
+    },
+    "Death Grip": {
+      "name": "Death Grip"
+    },
+    "Deathrun": {
+      "name": "Deathrun"
+    },
+    "Not Good Enough": {
+      "name": "Not Good Enough"
+    },
+    "Deadly Focus": {
+      "name": "Deadly Focus"
+    },
+    "Master of the Craft": {
+      "name": "Master of the Craft"
+    },
+    "Dark Whispers": {
+      "name": "Dark Whispers"
+    },
+    "Resurrection": {
+      "name": "Resurrection"
+    },
+    "Forceful Push": {
+      "name": "Forceful Push"
+    },
+    "On the Brink": {
+      "name": "On the Brink"
+    },
+    "Night Terror": {
+      "name": "Night Terror"
+    }
+  }
+}

@@ -1,0 +1,2054 @@
+{
+  "label": "Adversaries",
+  "folders": {
+    "Tier 4": "Tier 4",
+    "Tier 2": "Tier 2",
+    "Tier 1": "Tier 1",
+    "Tier 3": "Tier 3"
+  },
+  "entries": {
+    "Cult Adept": {
+      "name": "Cult Adept",
+      "tokenName": "Cult Adept",
+      "items": {
+        "Enervating Blast": {
+          "name": "Enervating Blast"
+        },
+        "Shroud of the Fallen": {
+          "name": "Shroud of the Fallen"
+        },
+        "Shadow Shackles": {
+          "name": "Shadow Shackles"
+        },
+        "Fear Is Fuel": {
+          "name": "Fear Is Fuel"
+        }
+      }
+    },
+    "Archer Squadron": {
+      "name": "Archer Squadron",
+      "tokenName": "Archer Squadron",
+      "items": {
+        "Horde (1d6+3)": {
+          "name": "Horde (1d6+3)"
+        },
+        "Focused Volley": {
+          "name": "Focused Volley"
+        },
+        "Supressing Fire": {
+          "name": "Supressing Fire"
+        }
+      }
+    },
+    "Skeleton Warrior": {
+      "name": "Skeleton Warrior",
+      "tokenName": "Skeleton Warrior",
+      "items": {
+        "Only Bones": {
+          "name": "Only Bones"
+        },
+        "Won't Stay Dead": {
+          "name": "Won't Stay Dead"
+        }
+      }
+    },
+    "Tiny Red Ooze": {
+      "name": "Tiny Red Ooze",
+      "tokenName": "Tiny Red Ooze",
+      "items": {
+        "Burning": {
+          "name": "Burning"
+        }
+      }
+    },
+    "Jagged Knife Sniper": {
+      "name": "Jagged Knife Sniper",
+      "tokenName": "Jagged Knife Sniper",
+      "items": {
+        "Unseen Strike": {
+          "name": "Unseen Strike"
+        }
+      }
+    },
+    "Brawny Zombie": {
+      "name": "Brawny Zombie",
+      "tokenName": "Brawny Zombie",
+      "items": {
+        "Slow": {
+          "name": "Slow"
+        },
+        "Rend Asunder": {
+          "name": "Rend Asunder"
+        },
+        "Rip and Tear": {
+          "name": "Rip and Tear"
+        }
+      }
+    },
+    "Demon of Hubris": {
+      "name": "Demon of Hubris",
+      "tokenName": "Demon of Hubris",
+      "items": {
+        "Terrifying": {
+          "name": "Terrifying"
+        },
+        "Double or Nothing": {
+          "name": "Double or Nothing"
+        },
+        "Unparalleled Skill": {
+          "name": "Unparalleled Skill"
+        },
+        "The Root of Villainy": {
+          "name": "The Root of Villainy"
+        },
+        "You Pale in Comparison": {
+          "name": "You Pale in Comparison"
+        }
+      }
+    },
+    "Shambling Zombie": {
+      "name": "Shambling Zombie",
+      "tokenName": "Shambling Zombie",
+      "items": {
+        "Too Many to Handle": {
+          "name": "Too Many to Handle"
+        },
+        "Horrifying": {
+          "name": "Horrifying"
+        }
+      }
+    },
+    "Stonewraith": {
+      "name": "Stonewraith",
+      "tokenName": "Stonewraith",
+      "items": {
+        "Stonestrider": {
+          "name": "Stonestrider"
+        },
+        "Rocky Ambush": {
+          "name": "Rocky Ambush"
+        },
+        "Avalanche Roar": {
+          "name": "Avalanche Roar"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Minor Demon": {
+      "name": "Minor Demon",
+      "tokenName": "Minor Demon",
+      "items": {
+        "Relentless (2)": {
+          "name": "Relentless (2)"
+        },
+        "All Must fall": {
+          "name": "All Must fall"
+        },
+        "Hellfire": {
+          "name": "Hellfire"
+        },
+        "Reaper": {
+          "name": "Reaper"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Giant Rat": {
+      "name": "Giant Rat",
+      "tokenName": "Giant Rat",
+      "items": {
+        "Minion (3)": {
+          "name": "Minion (3)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Kraken": {
+      "name": "Kraken",
+      "tokenName": "Kraken",
+      "items": {
+        "Relentless (3)": {
+          "name": "Relentless (3)"
+        },
+        "Many Tentacles": {
+          "name": "Many Tentacles"
+        },
+        "Grapple and Drown": {
+          "name": "Grapple and Drown"
+        },
+        "Boiling Blast": {
+          "name": "Boiling Blast"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Jagged Knife Bandit": {
+      "name": "Jagged Knife Bandit",
+      "tokenName": "Jagged Knife Bandit",
+      "items": {
+        "Climber": {
+          "name": "Climber"
+        },
+        "From Above": {
+          "name": "From Above"
+        }
+      }
+    },
+    "Pirate Raiders": {
+      "name": "Pirate Raiders",
+      "tokenName": "Pirate Raiders",
+      "items": {
+        "Horde": {
+          "name": "Horde"
+        },
+        "Swashbuckler": {
+          "name": "Swashbuckler"
+        }
+      }
+    },
+    "Demon of Wrath": {
+      "name": "Demon of Wrath",
+      "tokenName": "Demon of Wrath",
+      "items": {
+        "Anger Unrelenting": {
+          "name": "Anger Unrelenting"
+        },
+        "Battle Lust": {
+          "name": "Battle Lust"
+        },
+        "Retalliation": {
+          "name": "Retalliation"
+        },
+        "Blood and Souls": {
+          "name": "Blood and Souls"
+        }
+      }
+    },
+    "Giant Recruit": {
+      "name": "Giant Recruit",
+      "tokenName": "Giant Recruit",
+      "items": {
+        "Minion (7)": {
+          "name": "Minion (7)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Spectral Archer": {
+      "name": "Spectral Archer",
+      "tokenName": "Spectral Archer",
+      "items": {
+        "Ghost": {
+          "name": "Ghost"
+        },
+        "Pick Your Target": {
+          "name": "Pick Your Target"
+        }
+      }
+    },
+    "Spectral Captain": {
+      "name": "Spectral Captain",
+      "tokenName": "Spectral Captain",
+      "items": {
+        "Ghost": {
+          "name": "Ghost"
+        },
+        "Unending Battle": {
+          "name": "Unending Battle"
+        },
+        "Hold Fast": {
+          "name": "Hold Fast"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Huge Green Ooze": {
+      "name": "Huge Green Ooze",
+      "tokenName": "Huge Green Ooze",
+      "items": {
+        "Slow": {
+          "name": "Slow"
+        },
+        "Acidic Form": {
+          "name": "Acidic Form"
+        },
+        "Envelop": {
+          "name": "Envelop"
+        },
+        "Split": {
+          "name": "Split"
+        }
+      }
+    },
+    "Skeleton Dredge": {
+      "name": "Skeleton Dredge",
+      "tokenName": "Skeleton Dredge",
+      "items": {
+        "Minion (4)": {
+          "name": "Minion (4)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Bear": {
+      "name": "Bear",
+      "tokenName": "Bear",
+      "items": {
+        "Overwhelming Force": {
+          "name": "Overwhelming Force"
+        },
+        "Bite": {
+          "name": "Bite"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Skeleton Archer": {
+      "name": "Skeleton Archer",
+      "tokenName": "Skeleton Archer",
+      "items": {
+        "Opportunist": {
+          "name": "Opportunist"
+        },
+        "Deadly Shot": {
+          "name": "Deadly Shot"
+        }
+      }
+    },
+    "Knight of the Realm": {
+      "name": "Knight of the Realm",
+      "tokenName": "Knight of the Realm",
+      "items": {
+        "Chevalier": {
+          "name": "Chevalier"
+        },
+        "Heavily Armored": {
+          "name": "Heavily Armored"
+        },
+        "Cavalry Charge": {
+          "name": "Cavalry Charge"
+        },
+        "For the Realm!": {
+          "name": "For the Realm!"
+        }
+      }
+    },
+    "Acid Burrower": {
+      "name": "Acid Burrower",
+      "tokenName": "Acid Burrower",
+      "items": {
+        "Relentless (3)": {
+          "name": "Relentless (3)"
+        },
+        "Earth Eruption": {
+          "name": "Earth Eruption"
+        },
+        "Spit Acid": {
+          "name": "Spit Acid"
+        },
+        "Acid Bath": {
+          "name": "Acid Bath"
+        }
+      }
+    },
+    "Glass Snake": {
+      "name": "Glass Snake",
+      "tokenName": "Glass Snake",
+      "items": {
+        "Armor-Shredding Shards": {
+          "name": "Armor-Shredding Shards"
+        },
+        "Spinning Serpent": {
+          "name": "Spinning Serpent"
+        },
+        "Spitter": {
+          "name": "Spitter"
+        }
+      }
+    },
+    "Giant Beastmaster": {
+      "name": "Giant Beastmaster",
+      "tokenName": "Giant Beastmaster",
+      "items": {
+        "Two as One": {
+          "name": "Two as One"
+        },
+        "Pinning Strike": {
+          "name": "Pinning Strike"
+        },
+        "Deadly Companion": {
+          "name": "Deadly Companion"
+        }
+      }
+    },
+    "Cave Ogre": {
+      "name": "Cave Ogre",
+      "tokenName": "Cave Ogre",
+      "items": {
+        "Ramp Up": {
+          "name": "Ramp Up"
+        },
+        "Bone Breaker": {
+          "name": "Bone Breaker"
+        },
+        "Hail of Boulders": {
+          "name": "Hail of Boulders"
+        },
+        "Rampaging Fury": {
+          "name": "Rampaging Fury"
+        }
+      }
+    },
+    "Gorgon": {
+      "name": "Gorgon",
+      "tokenName": "Gorgon",
+      "items": {
+        "Relentless (2)": {
+          "name": "Relentless (2)"
+        },
+        "Sunsear Arrows": {
+          "name": "Sunsear Arrows"
+        },
+        "Crown of Serpents": {
+          "name": "Crown of Serpents"
+        },
+        "Petrifying Gaze": {
+          "name": "Petrifying Gaze"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Young Dryad": {
+      "name": "Young Dryad",
+      "tokenName": "Young Dryad",
+      "items": {
+        "Voice of the Forest": {
+          "name": "Voice of the Forest"
+        },
+        "Thorny Cage": {
+          "name": "Thorny Cage"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Spy": {
+      "name": "Spy",
+      "tokenName": "Spy",
+      "items": {
+        "Gathering Secrets": {
+          "name": "Gathering Secrets"
+        },
+        "Fly on the Wall": {
+          "name": "Fly on the Wall"
+        }
+      }
+    },
+    "Conscript": {
+      "name": "Conscript",
+      "tokenName": "Conscript",
+      "items": {
+        "Minion (6)": {
+          "name": "Minion (6)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Red Ooze": {
+      "name": "Red Ooze",
+      "tokenName": "Red Ooze",
+      "items": {
+        "Creeping Fire": {
+          "name": "Creeping Fire"
+        },
+        "Ignite": {
+          "name": "Ignite"
+        },
+        "Split": {
+          "name": "Split"
+        }
+      }
+    },
+    "Deeproot Defender": {
+      "name": "Deeproot Defender",
+      "tokenName": "Deeproot Defender",
+      "items": {
+        "Ground Slam": {
+          "name": "Ground Slam"
+        },
+        "Grab and Drag": {
+          "name": "Grab and Drag"
+        }
+      }
+    },
+    "Outer Realms Abomination": {
+      "name": "Outer Realms Abomination",
+      "tokenName": "Outer Realms Abomination",
+      "items": {
+        "Chaotic Form": {
+          "name": "Chaotic Form"
+        },
+        "Disorienting Presence": {
+          "name": "Disorienting Presence"
+        },
+        "Reality Quake": {
+          "name": "Reality Quake"
+        },
+        "Unreal Form": {
+          "name": "Unreal Form"
+        }
+      }
+    },
+    "Merchant": {
+      "name": "Merchant",
+      "tokenName": "Merchant",
+      "items": {
+        "Preferential Treatment": {
+          "name": "Preferential Treatment"
+        },
+        "The Runaround": {
+          "name": "The Runaround"
+        }
+      }
+    },
+    "Bladed Guard": {
+      "name": "Bladed Guard",
+      "tokenName": "Bladed Guard",
+      "items": {
+        "Shield Wall": {
+          "name": "Shield Wall"
+        },
+        "Detain": {
+          "name": "Detain"
+        }
+      }
+    },
+    "Siren": {
+      "name": "Siren",
+      "tokenName": "Siren",
+      "items": {
+        "Captive Audience": {
+          "name": "Captive Audience"
+        },
+        "Enchanting Song": {
+          "name": "Enchanting Song"
+        }
+      }
+    },
+    "Jagged Knife Lackey": {
+      "name": "Jagged Knife Lackey",
+      "tokenName": "Jagged Knife Lackey",
+      "items": {
+        "Minion (3)": {
+          "name": "Minion (3)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Courtier": {
+      "name": "Courtier",
+      "tokenName": "Courtier",
+      "items": {
+        "Mockery": {
+          "name": "Mockery"
+        },
+        "Scapegoat": {
+          "name": "Scapegoat"
+        }
+      }
+    },
+    "Jagged Knife Kneebreaker": {
+      "name": "Jagged Knife Kneebreaker",
+      "tokenName": "Jagged Knife Kneebreaker",
+      "items": {
+        "I've Got 'Em": {
+          "name": "I've Got 'Em"
+        },
+        "Hold Them Down": {
+          "name": "Hold Them Down"
+        }
+      }
+    },
+    "Perfected Zombie": {
+      "name": "Perfected Zombie",
+      "tokenName": "Perfected Zombie",
+      "items": {
+        "Terrifying": {
+          "name": "Terrifying"
+        },
+        "Fearsome Presence": {
+          "name": "Fearsome Presence"
+        },
+        "Perfect Strike": {
+          "name": "Perfect Strike"
+        },
+        "Skilled Opportunist": {
+          "name": "Skilled Opportunist"
+        }
+      }
+    },
+    "Failed Experiment": {
+      "name": "Failed Experiment",
+      "tokenName": "Failed Experiment",
+      "items": {
+        "Warped Fortitude": {
+          "name": "Warped Fortitude"
+        },
+        "Overwhelm": {
+          "name": "Overwhelm"
+        },
+        "Lurching Lunge": {
+          "name": "Lurching Lunge"
+        }
+      }
+    },
+    "Minor Fire Elemental": {
+      "name": "Minor Fire Elemental",
+      "tokenName": "Minor Fire Elemental",
+      "items": {
+        "Relentless (2)": {
+          "name": "Relentless (2)"
+        },
+        "Scorched Earth": {
+          "name": "Scorched Earth"
+        },
+        "Explosion": {
+          "name": "Explosion"
+        },
+        "Consume Kindling": {
+          "name": "Consume Kindling"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Patchwork Zombie Hulk": {
+      "name": "Patchwork Zombie Hulk",
+      "tokenName": "Patchwork Zombie Hulk",
+      "items": {
+        "Destructible": {
+          "name": "Destructible"
+        },
+        "Flailing Limbs": {
+          "name": "Flailing Limbs"
+        },
+        "Another for the Pile": {
+          "name": "Another for the Pile"
+        },
+        "Tormented Screams": {
+          "name": "Tormented Screams"
+        }
+      }
+    },
+    "Royal Advisor": {
+      "name": "Royal Advisor",
+      "tokenName": "Royal Advisor",
+      "items": {
+        "Devastating Retort": {
+          "name": "Devastating Retort"
+        },
+        "Bend Ears": {
+          "name": "Bend Ears"
+        },
+        "Scapegoat": {
+          "name": "Scapegoat"
+        }
+      }
+    },
+    "Vault Guardian Sentinel": {
+      "name": "Vault Guardian Sentinel",
+      "tokenName": "Vault Guardian Sentinel",
+      "items": {
+        "Kinetic Slam": {
+          "name": "Kinetic Slam"
+        },
+        "Box In": {
+          "name": "Box In"
+        },
+        "Mana Bolt": {
+          "name": "Mana Bolt"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Minor Treant": {
+      "name": "Minor Treant",
+      "tokenName": "Minor Treant",
+      "items": {
+        "Minion (5)": {
+          "name": "Minion (5)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Adult Flickerfly": {
+      "name": "Adult Flickerfly",
+      "tokenName": "Adult Flickerfly",
+      "items": {
+        "Relentless (4)": {
+          "name": "Relentless (4)"
+        },
+        "Never Misses": {
+          "name": "Never Misses"
+        },
+        "Whirlwind": {
+          "name": "Whirlwind"
+        },
+        "Mind Dance": {
+          "name": "Mind Dance"
+        },
+        "Hallucinatory Breath": {
+          "name": "Hallucinatory Breath"
+        },
+        "Uncanny Reflexes": {
+          "name": "Uncanny Reflexes"
+        },
+        "Deadly Flight": {
+          "name": "Deadly Flight"
+        }
+      }
+    },
+    "Giant Mosquitoes": {
+      "name": "Giant Mosquitoes",
+      "tokenName": "Giant Mosquitoes",
+      "items": {
+        "Horde": {
+          "name": "Horde"
+        },
+        "Flying": {
+          "name": "Flying"
+        },
+        "Bloodsucker": {
+          "name": "Bloodsucker"
+        }
+      }
+    },
+    "Archer Guard": {
+      "name": "Archer Guard",
+      "tokenName": "Archer Guard",
+      "items": {
+        "Hobbling Shot": {
+          "name": "Hobbling Shot"
+        }
+      }
+    },
+    "Vault Guardian Gaoler": {
+      "name": "Vault Guardian Gaoler",
+      "tokenName": "Vault Guardian Gaoler",
+      "items": {
+        "Blocking Shield": {
+          "name": "Blocking Shield"
+        },
+        "Lock Up": {
+          "name": "Lock Up"
+        }
+      }
+    },
+    "Stag Knight": {
+      "name": "Stag Knight",
+      "tokenName": "Stag Knight",
+      "items": {
+        "From Above": {
+          "name": "From Above"
+        },
+        "Blade of the Forest": {
+          "name": "Blade of the Forest"
+        },
+        "Thorny Armor": {
+          "name": "Thorny Armor"
+        }
+      }
+    },
+    "Hydra": {
+      "name": "Hydra",
+      "tokenName": "Hydra",
+      "items": {
+        "Many-Headed Menace": {
+          "name": "Many-Headed Menace"
+        },
+        "Relentless (X)": {
+          "name": "Relentless (X)"
+        },
+        "Regeneration": {
+          "name": "Regeneration"
+        },
+        "Terrifying Chorus": {
+          "name": "Terrifying Chorus"
+        },
+        "Magical Weakness": {
+          "name": "Magical Weakness"
+        }
+      }
+    },
+    "Juvenile Flickerfly": {
+      "name": "Juvenile Flickerfly",
+      "tokenName": "Juvenile Flickerfly",
+      "items": {
+        "Relentless (3)": {
+          "name": "Relentless (3)"
+        },
+        "Peerless Accuracy": {
+          "name": "Peerless Accuracy"
+        },
+        "Mind Dance": {
+          "name": "Mind Dance"
+        },
+        "Hallucinatory Breath": {
+          "name": "Hallucinatory Breath"
+        }
+      }
+    },
+    "Jagged Knife Hexer": {
+      "name": "Jagged Knife Hexer",
+      "tokenName": "Jagged Knife Hexer",
+      "items": {
+        "Curse": {
+          "name": "Curse"
+        },
+        "Chaotic Flux": {
+          "name": "Chaotic Flux"
+        }
+      }
+    },
+    "Zombie Pack": {
+      "name": "Zombie Pack",
+      "tokenName": "Zombie Pack",
+      "items": {
+        "Horde (1d4+2)": {
+          "name": "Horde (1d4+2)"
+        },
+        "Overwhelm": {
+          "name": "Overwhelm"
+        }
+      }
+    },
+    "Demonic Hound Pack": {
+      "name": "Demonic Hound Pack",
+      "tokenName": "Demonic Hound Pack",
+      "items": {
+        "Horde (2d4+1)": {
+          "name": "Horde (2d4+1)"
+        },
+        "Dreadhowl": {
+          "name": "Dreadhowl"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Giant Eagle": {
+      "name": "Giant Eagle",
+      "tokenName": "Giant Eagle",
+      "items": {
+        "Flight": {
+          "name": "Flight"
+        },
+        "Deadly Dive": {
+          "name": "Deadly Dive"
+        },
+        "Take Off": {
+          "name": "Take Off"
+        },
+        "Deadly Drop": {
+          "name": "Deadly Drop"
+        }
+      }
+    },
+    "Pirate Captain": {
+      "name": "Pirate Captain",
+      "tokenName": "Pirate Captain",
+      "items": {
+        "Swashbuckler": {
+          "name": "Swashbuckler"
+        },
+        "Reinforcements": {
+          "name": "Reinforcements"
+        },
+        "No Quarter": {
+          "name": "No Quarter"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Fallen Shock Troop": {
+      "name": "Fallen Shock Troop",
+      "tokenName": "Fallen Shock Troop",
+      "items": {
+        "Minion (12)": {
+          "name": "Minion (12)"
+        },
+        "Aura of Doom": {
+          "name": "Aura of Doom"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Elemental Spark": {
+      "name": "Elemental Spark",
+      "tokenName": "Elemental Spark",
+      "items": {
+        "Minion (9)": {
+          "name": "Minion (9)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Fallen Sorcerer": {
+      "name": "Fallen Sorcerer",
+      "tokenName": "Fallen Sorcerer",
+      "items": {
+        "Conflagration": {
+          "name": "Conflagration"
+        },
+        "Nightmare Tableau": {
+          "name": "Nightmare Tableau"
+        },
+        "Slippery": {
+          "name": "Slippery"
+        },
+        "Shackles of Guilt": {
+          "name": "Shackles of Guilt"
+        }
+      }
+    },
+    "Tangle Bramble Swarm": {
+      "name": "Tangle Bramble Swarm",
+      "tokenName": "Tangle Bramble Swarm",
+      "items": {
+        "Horde (1d4+2)": {
+          "name": "Horde (1d4+2)"
+        },
+        "Crush": {
+          "name": "Crush"
+        },
+        "Encumber": {
+          "name": "Encumber"
+        }
+      }
+    },
+    "Skeleton Knight": {
+      "name": "Skeleton Knight",
+      "tokenName": "Skeleton Knight",
+      "items": {
+        "Terrifying": {
+          "name": "Terrifying"
+        },
+        "Cut to the Bone": {
+          "name": "Cut to the Bone"
+        },
+        "Dig Two Graves": {
+          "name": "Dig Two Graves"
+        }
+      }
+    },
+    "Fallen Warlord: Undefeated Champion": {
+      "name": "Fallen Warlord: Undefeated Champion",
+      "tokenName": "Fallen Warlord: Undefeated Champion",
+      "items": {
+        "Relentless (3)": {
+          "name": "Relentless (3)"
+        },
+        "Faltering Armor": {
+          "name": "Faltering Armor"
+        },
+        "Shattering Strike": {
+          "name": "Shattering Strike"
+        },
+        "Endless Legions": {
+          "name": "Endless Legions"
+        },
+        "Circle of Defilement": {
+          "name": "Circle of Defilement"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        },
+        "Doombringer": {
+          "name": "Doombringer"
+        }
+      }
+    },
+    "Green Ooze": {
+      "name": "Green Ooze",
+      "tokenName": "Green Ooze",
+      "items": {
+        "Slow": {
+          "name": "Slow"
+        },
+        "Acidic Form": {
+          "name": "Acidic Form"
+        },
+        "Envelop": {
+          "name": "Envelop"
+        },
+        "Split": {
+          "name": "Split"
+        }
+      }
+    },
+    "Demon of Jealousy": {
+      "name": "Demon of Jealousy",
+      "tokenName": "Demon of Jealousy",
+      "items": {
+        "Unprotected Mind": {
+          "name": "Unprotected Mind"
+        },
+        "My Turn": {
+          "name": "My Turn"
+        },
+        "Rivalry": {
+          "name": "Rivalry"
+        },
+        "What's Yours Is Mine": {
+          "name": "What's Yours Is Mine"
+        }
+      }
+    },
+    "Electric Eels": {
+      "name": "Electric Eels",
+      "tokenName": "Electric Eels",
+      "items": {
+        "Horde (2d4+1)": {
+          "name": "Horde (2d4+1)"
+        },
+        "Paralyzing Shock": {
+          "name": "Paralyzing Shock"
+        }
+      }
+    },
+    "Spectral Guardian": {
+      "name": "Spectral Guardian",
+      "tokenName": "Spectral Guardian",
+      "items": {
+        "Ghost": {
+          "name": "Ghost"
+        },
+        "Ghost Blade": {
+          "name": "Ghost Blade"
+        }
+      }
+    },
+    "Young Ice Dragon": {
+      "name": "Young Ice Dragon",
+      "tokenName": "Young Ice Dragon",
+      "items": {
+        "Relentless (3)": {
+          "name": "Relentless (3)"
+        },
+        "Rend and Crush": {
+          "name": "Rend and Crush"
+        },
+        "No Hope": {
+          "name": "No Hope"
+        },
+        "Blizzard Breath": {
+          "name": "Blizzard Breath"
+        },
+        "Avalanche": {
+          "name": "Avalanche"
+        },
+        "Frozen Scales": {
+          "name": "Frozen Scales"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Hallowed Soldier": {
+      "name": "Hallowed Soldier",
+      "tokenName": "Hallowed Soldier",
+      "items": {
+        "Minion (13)": {
+          "name": "Minion (13)"
+        },
+        "Divine Flight": {
+          "name": "Divine Flight"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Sylvan Soldier": {
+      "name": "Sylvan Soldier",
+      "tokenName": "Sylvan Soldier",
+      "items": {
+        "Pack tactics": {
+          "name": "Pack tactics"
+        },
+        "Forest Control": {
+          "name": "Forest Control"
+        },
+        "Blend In": {
+          "name": "Blend In"
+        }
+      }
+    },
+    "Merchant Baron": {
+      "name": "Merchant Baron",
+      "tokenName": "Merchant Baron",
+      "items": {
+        "Everyone Has a Price": {
+          "name": "Everyone Has a Price"
+        },
+        "The Best Muscle Money Can Buy": {
+          "name": "The Best Muscle Money Can Buy"
+        }
+      }
+    },
+    "Arch-Necromancer": {
+      "name": "Arch-Necromancer",
+      "tokenName": "Arch-Necromancer",
+      "items": {
+        "Dance Of Death": {
+          "name": "Dance Of Death"
+        },
+        "Beam Of Decay": {
+          "name": "Beam Of Decay"
+        },
+        "Open the Gates of Death": {
+          "name": "Open the Gates of Death"
+        },
+        "Not Today, My Dears": {
+          "name": "Not Today, My Dears"
+        },
+        "Your Life Is Mine": {
+          "name": "Your Life Is Mine"
+        }
+      }
+    },
+    "Vampire": {
+      "name": "Vampire",
+      "tokenName": "Vampire",
+      "items": {
+        "Draining Bite": {
+          "name": "Draining Bite"
+        },
+        "Mistform": {
+          "name": "Mistform"
+        }
+      }
+    },
+    "Jagged Knife Shadow": {
+      "name": "Jagged Knife Shadow",
+      "tokenName": "Jagged Knife Shadow",
+      "items": {
+        "Backstab": {
+          "name": "Backstab"
+        },
+        "Cloaked": {
+          "name": "Cloaked"
+        }
+      }
+    },
+    "Oak Treant": {
+      "name": "Oak Treant",
+      "tokenName": "Oak Treant",
+      "items": {
+        "Just a Tree": {
+          "name": "Just a Tree"
+        },
+        "Seed Barrage": {
+          "name": "Seed Barrage"
+        },
+        "Take Root": {
+          "name": "Take Root"
+        }
+      }
+    },
+    "Tangle Bramble": {
+      "name": "Tangle Bramble",
+      "tokenName": "Tangle Bramble",
+      "items": {
+        "Minion (4)": {
+          "name": "Minion (4)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        },
+        "Drain and Multiply": {
+          "name": "Drain and Multiply"
+        }
+      }
+    },
+    "Zombie Legion": {
+      "name": "Zombie Legion",
+      "tokenName": "Zombie Legion",
+      "items": {
+        "Horde (2d6+5)": {
+          "name": "Horde (2d6+5)"
+        },
+        "Unyielding": {
+          "name": "Unyielding"
+        },
+        "Relentless (2)": {
+          "name": "Relentless (2)"
+        },
+        "Overwhelm": {
+          "name": "Overwhelm"
+        }
+      }
+    },
+    "Shark": {
+      "name": "Shark",
+      "tokenName": "Shark",
+      "items": {
+        "Terrifying": {
+          "name": "Terrifying"
+        },
+        "Rending Bite": {
+          "name": "Rending Bite"
+        },
+        "Blood in the Water": {
+          "name": "Blood in the Water"
+        }
+      }
+    },
+    "Giant Brawler": {
+      "name": "Giant Brawler",
+      "tokenName": "Giant Brawler",
+      "items": {
+        "Battering Ram": {
+          "name": "Battering Ram"
+        },
+        "Bloody Reprisal": {
+          "name": "Bloody Reprisal"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Weaponmaster": {
+      "name": "Weaponmaster",
+      "tokenName": "Weaponmaster",
+      "items": {
+        "Goading Strike": {
+          "name": "Goading Strike"
+        },
+        "Adrenaline Burst": {
+          "name": "Adrenaline Burst"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Courtesan": {
+      "name": "Courtesan",
+      "tokenName": "Courtesan",
+      "items": {
+        "Searing Glance": {
+          "name": "Searing Glance"
+        }
+      }
+    },
+    "Tiny Green Ooze": {
+      "name": "Tiny Green Ooze",
+      "tokenName": "Tiny Green Ooze",
+      "items": {
+        "Acidic Form": {
+          "name": "Acidic Form"
+        }
+      }
+    },
+    "Jagged Knife Lieutenant": {
+      "name": "Jagged Knife Lieutenant",
+      "tokenName": "Jagged Knife Lieutenant",
+      "items": {
+        "Tactician": {
+          "name": "Tactician"
+        },
+        "More Where That Came From": {
+          "name": "More Where That Came From"
+        },
+        "Coup de Grace": {
+          "name": "Coup de Grace"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Oracle of Doom": {
+      "name": "Oracle of Doom",
+      "tokenName": "Oracle of Doom",
+      "items": {
+        "Terrifying": {
+          "name": "Terrifying"
+        },
+        "Walls Closing In": {
+          "name": "Walls Closing In"
+        },
+        "Pronounce Fate": {
+          "name": "Pronounce Fate"
+        },
+        "Summon Tormentors": {
+          "name": "Summon Tormentors"
+        },
+        "Ominous Knowledge": {
+          "name": "Ominous Knowledge"
+        },
+        "Vengeful Fate": {
+          "name": "Vengeful Fate"
+        }
+      }
+    },
+    "Elite Soldier": {
+      "name": "Elite Soldier",
+      "tokenName": "Elite Soldier",
+      "items": {
+        "Reinforce": {
+          "name": "Reinforce"
+        },
+        "Vassal's Loyalty": {
+          "name": "Vassal's Loyalty"
+        }
+      }
+    },
+    "Sellsword": {
+      "name": "Sellsword",
+      "tokenName": "Sellsword",
+      "items": {
+        "Minion (4)": {
+          "name": "Minion (4)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Vault Guardian Turret": {
+      "name": "Vault Guardian Turret",
+      "tokenName": "Vault Guardian Turret",
+      "items": {
+        "Slow Firing": {
+          "name": "Slow Firing"
+        },
+        "Mark Target": {
+          "name": "Mark Target"
+        },
+        "Concentrate Fire": {
+          "name": "Concentrate Fire"
+        },
+        "Detonation": {
+          "name": "Detonation"
+        }
+      }
+    },
+    "Master Assassin": {
+      "name": "Master Assassin",
+      "tokenName": "Master Assassin",
+      "items": {
+        "Won't See it Coming": {
+          "name": "Won't See it Coming"
+        },
+        "Strike as One": {
+          "name": "Strike as One"
+        },
+        "The Subtle Blade": {
+          "name": "The Subtle Blade"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Battle Box": {
+      "name": "Battle Box",
+      "tokenName": "Battle Box",
+      "items": {
+        "Relentless (2)": {
+          "name": "Relentless (2)"
+        },
+        "Randomized Tactics": {
+          "name": "Randomized Tactics"
+        },
+        "Mana Beam": {
+          "name": "Mana Beam"
+        },
+        "Fire Jets": {
+          "name": "Fire Jets"
+        },
+        "Trample": {
+          "name": "Trample"
+        },
+        "Shocking Gas": {
+          "name": "Shocking Gas"
+        },
+        "Stunning Clap": {
+          "name": "Stunning Clap"
+        },
+        "Psionic Whine": {
+          "name": "Psionic Whine"
+        },
+        "Overcharge": {
+          "name": "Overcharge"
+        },
+        "Death Quake": {
+          "name": "Death Quake"
+        }
+      }
+    },
+    "Greater Earth Elemental": {
+      "name": "Greater Earth Elemental",
+      "tokenName": "Greater Earth Elemental",
+      "items": {
+        "Slow": {
+          "name": "Slow"
+        },
+        "Crushing Blows": {
+          "name": "Crushing Blows"
+        },
+        "Immovable Object": {
+          "name": "Immovable Object"
+        },
+        "Rockslide": {
+          "name": "Rockslide"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Volcanic Dragon: Molten Scourge": {
+      "name": "Volcanic Dragon: Molten Scourge",
+      "tokenName": "Volcanic Dragon: Molten Scourge",
+      "items": {
+        "Relentless (3)": {
+          "name": "Relentless (3)"
+        },
+        "Cracked Scales": {
+          "name": "Cracked Scales"
+        },
+        "Shattering Might": {
+          "name": "Shattering Might"
+        },
+        "Eruption": {
+          "name": "Eruption"
+        },
+        "Volcanic Breath": {
+          "name": "Volcanic Breath"
+        },
+        "Lava Splash": {
+          "name": "Lava Splash"
+        },
+        "Ashen Vengeance": {
+          "name": "Ashen Vengeance"
+        }
+      }
+    },
+    "Giant Scorpion": {
+      "name": "Giant Scorpion",
+      "tokenName": "Giant Scorpion",
+      "items": {
+        "Double Strike": {
+          "name": "Double Strike"
+        },
+        "Venomous Stinger": {
+          "name": "Venomous Stinger"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Rotted Zombie": {
+      "name": "Rotted Zombie",
+      "tokenName": "Rotted Zombie",
+      "items": {
+        "Minion (3)": {
+          "name": "Minion (3)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Assassin Poisoner": {
+      "name": "Assassin Poisoner",
+      "tokenName": "Assassin Poisoner",
+      "items": {
+        "Grindletooth Venom": {
+          "name": "Grindletooth Venom"
+        },
+        "Assassin Poisoner": {
+          "name": "Assassin Poisoner"
+        },
+        "Fumigation": {
+          "name": "Fumigation"
+        }
+      }
+    },
+    "Fallen Warlord: Realm-Breaker": {
+      "name": "Fallen Warlord: Realm-Breaker",
+      "tokenName": "Fallen Warlord: Realm Breaker",
+      "items": {
+        "Relentless (2)": {
+          "name": "Relentless (2)"
+        },
+        "Firespite Plate Armor": {
+          "name": "Firespite Plate Armor"
+        },
+        "Tormenting Lash": {
+          "name": "Tormenting Lash"
+        },
+        "All-Consuming Rage": {
+          "name": "All-Consuming Rage"
+        },
+        "Doombringer": {
+          "name": "Doombringer"
+        },
+        "I Have Never Known Defeat": {
+          "name": "I Have Never Known Defeat"
+        }
+      }
+    },
+    "Head Vampire": {
+      "name": "Head Vampire",
+      "tokenName": "Head Vampire",
+      "items": {
+        "Terrifying": {
+          "name": "Terrifying"
+        },
+        "Look into My Eyes": {
+          "name": "Look into My Eyes"
+        },
+        "Feed on Followers": {
+          "name": "Feed on Followers"
+        },
+        "The Hunt Is On": {
+          "name": "The Hunt Is On"
+        },
+        "Lifesuck": {
+          "name": "Lifesuck"
+        }
+      }
+    },
+    "Chaos Skull": {
+      "name": "Chaos Skull",
+      "tokenName": "Chaos Skull",
+      "items": {
+        "Levitation": {
+          "name": "Levitation"
+        },
+        "Wards": {
+          "name": "Wards"
+        },
+        "Magic Burst": {
+          "name": "Magic Burst"
+        },
+        "Siphon Magic": {
+          "name": "Siphon Magic"
+        }
+      }
+    },
+    "Demon of Despair": {
+      "name": "Demon of Despair",
+      "tokenName": "Demon of Despair",
+      "items": {
+        "Depths of Despair": {
+          "name": "Depths of Despair"
+        },
+        "Your Struggle is Pointless": {
+          "name": "Your Struggle is Pointless"
+        },
+        "Your Friends Will Fail You": {
+          "name": "Your Friends Will Fail You"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Hallowed Archer": {
+      "name": "Hallowed Archer",
+      "tokenName": "Hallowed Archer",
+      "items": {
+        "Punish the Guilty": {
+          "name": "Punish the Guilty"
+        },
+        "Divine Volley": {
+          "name": "Divine Volley"
+        }
+      }
+    },
+    "Volcanic Dragon: Obsidian Predator": {
+      "name": "Volcanic Dragon: Obsidian Predator",
+      "tokenName": "Volcanic Dragon: Obsidian Predator",
+      "items": {
+        "Relentless (2)": {
+          "name": "Relentless (2)"
+        },
+        "Flying": {
+          "name": "Flying"
+        },
+        "Obsidian Scales": {
+          "name": "Obsidian Scales"
+        },
+        "Avalanche Tail": {
+          "name": "Avalanche Tail"
+        },
+        "Dive-Bomb": {
+          "name": "Dive-Bomb"
+        },
+        "Erupting Rage": {
+          "name": "Erupting Rage"
+        }
+      }
+    },
+    "Spellblade": {
+      "name": "Spellblade",
+      "tokenName": "Spellblade",
+      "items": {
+        "Arcane Steel": {
+          "name": "Arcane Steel"
+        },
+        "Supressing Blast": {
+          "name": "Supressing Blast"
+        },
+        "Move as a Unit": {
+          "name": "Move as a Unit"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Head Guard": {
+      "name": "Head Guard",
+      "tokenName": "Head Guard",
+      "items": {
+        "Rally Guards": {
+          "name": "Rally Guards"
+        },
+        "On My Signal": {
+          "name": "On My Signal"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Mortal Hunter": {
+      "name": "Mortal Hunter",
+      "tokenName": "Mortal Hunter",
+      "items": {
+        "Terrifying": {
+          "name": "Terrifying"
+        },
+        "Deathlock": {
+          "name": "Deathlock"
+        },
+        "Inevitable Death": {
+          "name": "Inevitable Death"
+        },
+        "Rampage": {
+          "name": "Rampage"
+        }
+      }
+    },
+    "Pirate Tough": {
+      "name": "Pirate Tough",
+      "tokenName": "Pirate Tough",
+      "items": {
+        "Swashbuckler": {
+          "name": "Swashbuckler"
+        },
+        "Clear the Decks": {
+          "name": "Clear the Decks"
+        }
+      }
+    },
+    "Outer Realms Thrall": {
+      "name": "Outer Realms Thrall",
+      "tokenName": "Outer Realms Thrall",
+      "items": {
+        "Minion (13)": {
+          "name": "Minion (13)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Outer Realms Corrupter": {
+      "name": "Outer Realms Corrupter",
+      "tokenName": "Outer Realms Corrupter",
+      "items": {
+        "Will-Shattering Touch": {
+          "name": "Will-Shattering Touch"
+        },
+        "Disgorge Realiy Flotsam": {
+          "name": "Disgorge Realiy Flotsam"
+        }
+      }
+    },
+    "Masked Thief": {
+      "name": "Masked Thief",
+      "tokenName": "Masked Thief",
+      "items": {
+        "Quick Hands": {
+          "name": "Quick Hands"
+        },
+        "Escape Plan": {
+          "name": "Escape Plan"
+        }
+      }
+    },
+    "War Wizard": {
+      "name": "War Wizard",
+      "tokenName": "War Wizard",
+      "items": {
+        "Battle Teleport": {
+          "name": "Battle Teleport"
+        },
+        "Refresh Warding Sphere": {
+          "name": "Refresh Warding Sphere"
+        },
+        "Eruption": {
+          "name": "Eruption"
+        },
+        "Arcane Artillery": {
+          "name": "Arcane Artillery"
+        },
+        "Warding Sphere": {
+          "name": "Warding Sphere"
+        }
+      }
+    },
+    "Treant Sapling": {
+      "name": "Treant Sapling",
+      "tokenName": "Treant Sapling",
+      "items": {
+        "Minion (6)": {
+          "name": "Minion (6)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Volcanic Dragon: Ashen Tyrant": {
+      "name": "Volcanic Dragon: Ashen Tyrant",
+      "tokenName": "Volcanic Dragon: Ashen Tyrant",
+      "items": {
+        "Relentless (4)": {
+          "name": "Relentless (4)"
+        },
+        "Cornered": {
+          "name": "Cornered"
+        },
+        "Injured Wings": {
+          "name": "Injured Wings"
+        },
+        "Ashes to Ashes": {
+          "name": "Ashes to Ashes"
+        },
+        "Desperate Rampage": {
+          "name": "Desperate Rampage"
+        },
+        "Ashen Cloud": {
+          "name": "Ashen Cloud"
+        },
+        "Apocalyptic Thrasing": {
+          "name": "Apocalyptic Thrasing"
+        }
+      }
+    },
+    "Demon of Avarice": {
+      "name": "Demon of Avarice",
+      "tokenName": "Demon of Avarice",
+      "items": {
+        "Money Talks": {
+          "name": "Money Talks"
+        },
+        "Number Must Go Up": {
+          "name": "Number Must Go Up"
+        },
+        "Money Is Time": {
+          "name": "Money Is Time"
+        }
+      }
+    },
+    "Swarm of Rats": {
+      "name": "Swarm of Rats",
+      "tokenName": "Swarm of Rats",
+      "items": {
+        "Horde (1d4+1)": {
+          "name": "Horde (1d4+1)"
+        },
+        "In Your Face": {
+          "name": "In Your Face"
+        }
+      }
+    },
+    "High Seraph": {
+      "name": "High Seraph",
+      "tokenName": "High Seraph",
+      "items": {
+        "Relentless (3)": {
+          "name": "Relentless (3)"
+        },
+        "Divine Flight": {
+          "name": "Divine Flight"
+        },
+        "Judgement": {
+          "name": "Judgement"
+        },
+        "God Rays": {
+          "name": "God Rays"
+        },
+        "We Are One": {
+          "name": "We Are One"
+        }
+      }
+    },
+    "Minotaur Wrecker": {
+      "name": "Minotaur Wrecker",
+      "tokenName": "Minotaur Wrecker",
+      "items": {
+        "Ramp Up": {
+          "name": "Ramp Up"
+        },
+        "Charging Bull": {
+          "name": "Charging Bull"
+        },
+        "Gore": {
+          "name": "Gore"
+        }
+      }
+    },
+    "Secret-Keeper": {
+      "name": "Secret-Keeper",
+      "tokenName": "Secret-Keeper",
+      "items": {
+        "Seize Your Moment": {
+          "name": "Seize Your Moment"
+        },
+        "Our Master's Will": {
+          "name": "Our Master's Will"
+        },
+        "Summoning Ritual": {
+          "name": "Summoning Ritual"
+        },
+        "Fallen Hounds": {
+          "name": "Fallen Hounds"
+        }
+      }
+    },
+    "Minor Chaos Elemental": {
+      "name": "Minor Chaos Elemental",
+      "tokenName": "Minor Chaos Elemental",
+      "items": {
+        "Arcane Form": {
+          "name": "Arcane Form"
+        },
+        "Sickening Flux": {
+          "name": "Sickening Flux"
+        },
+        "Remake Reality": {
+          "name": "Remake Reality"
+        },
+        "Magical Reflection": {
+          "name": "Magical Reflection"
+        },
+        "Momentum": {
+          "name": "Momentum"
+        }
+      }
+    },
+    "Dire Bat": {
+      "name": "Dire Bat",
+      "tokenName": "Dire Bat",
+      "items": {
+        "Flying": {
+          "name": "Flying"
+        },
+        "Screech": {
+          "name": "Screech"
+        },
+        "Guardian": {
+          "name": "Guardian"
+        }
+      }
+    },
+    "Cult Fang": {
+      "name": "Cult Fang",
+      "tokenName": "Cult Fang",
+      "items": {
+        "Shadow's Embrace": {
+          "name": "Shadow's Embrace"
+        },
+        "Pick Off the Straggler": {
+          "name": "Pick Off the Straggler"
+        }
+      }
+    },
+    "Construct": {
+      "name": "Construct",
+      "tokenName": "Construct",
+      "items": {
+        "Relentless (2)": {
+          "name": "Relentless (2)"
+        },
+        "Weak Structure": {
+          "name": "Weak Structure"
+        },
+        "Trample": {
+          "name": "Trample"
+        },
+        "Overload": {
+          "name": "Overload"
+        },
+        "Death Quake": {
+          "name": "Death Quake"
+        }
+      }
+    },
+    "Harrier": {
+      "name": "Harrier",
+      "tokenName": "Harrier",
+      "items": {
+        "Maintain Distance": {
+          "name": "Maintain Distance"
+        },
+        "Fall Back": {
+          "name": "Fall Back"
+        }
+      }
+    },
+    "Apprentice Assassin": {
+      "name": "Apprentice Assassin",
+      "tokenName": "Apprentice Assassin",
+      "items": {
+        "Minion (6)": {
+          "name": "Minion (6)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    },
+    "Dire Wolf": {
+      "name": "Dire Wolf",
+      "tokenName": "Dire Wolf",
+      "items": {
+        "Pack tactics": {
+          "name": "Pack tactics"
+        },
+        "Hobbling Strike": {
+          "name": "Hobbling Strike"
+        }
+      }
+    },
+    "Dryad": {
+      "name": "Dryad",
+      "tokenName": "Dryad",
+      "items": {
+        "Bramble Patch": {
+          "name": "Bramble Patch"
+        },
+        "Grow Saplings": {
+          "name": "Grow Saplings"
+        },
+        "We Are All One": {
+          "name": "We Are All One"
+        }
+      }
+    },
+    "Petty Noble": {
+      "name": "Petty Noble",
+      "tokenName": "Petty Noble",
+      "items": {
+        "My Land, My Rules": {
+          "name": "My Land, My Rules"
+        },
+        "Guards, Seize Them!": {
+          "name": "Guards, Seize Them!"
+        },
+        "Exile": {
+          "name": "Exile"
+        }
+      }
+    },
+    "Greater Water Elemental": {
+      "name": "Greater Water Elemental",
+      "tokenName": "Greater Water Elemental",
+      "items": {
+        "Water Jet": {
+          "name": "Water Jet"
+        },
+        "Drowning Embrace": {
+          "name": "Drowning Embrace"
+        },
+        "High Tide": {
+          "name": "High Tide"
+        }
+      }
+    },
+    "Monarch": {
+      "name": "Monarch",
+      "tokenName": "Monarch",
+      "items": {
+        "Execute Them": {
+          "name": "Execute Them"
+        },
+        "Crownsguard": {
+          "name": "Crownsguard"
+        },
+        "Casus Belli": {
+          "name": "Casus Belli"
+        }
+      }
+    },
+    "Cult Initiate": {
+      "name": "Cult Initiate",
+      "tokenName": "Cult Initiate",
+      "items": {
+        "Minion (6)": {
+          "name": "Minion (6)"
+        },
+        "Group Attack": {
+          "name": "Group Attack"
+        }
+      }
+    }
+  }
+}

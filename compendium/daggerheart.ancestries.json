@@ -1,0 +1,170 @@
+{
+  "label": "Ancestralidade",
+  "folders": {
+    "Ancestry Features": "Habilidades de Ancestralidade"
+  },
+  "entries": {
+    "Quick Reactions": {
+      "name": "Reação Rápida"
+    },
+    "Increased Fortitude": {
+      "name": "Vigoroso"
+    },
+    "Efficient": {
+      "name": "Eficiente"
+    },
+    "Simiah": {
+      "name": "Símio"
+    },
+    "Giant": {
+      "name": "Gigante"
+    },
+    "Nimble": {
+      "name": "Ágil"
+    },
+    "Sturdy": {
+      "name": "Robusto"
+    },
+    "Luckbringer": {
+      "name": "Talismã da Sorte"
+    },
+    "Fungril Network": {
+      "name": "Conexão Fungril"
+    },
+    "Shell": {
+      "name": "Carapaça"
+    },
+    "Charge": {
+      "name": "Investida"
+    },
+    "Danger Sense": {
+      "name": "Cheiro de Perigo"
+    },
+    "Adaptability": {
+      "name": "Adaptabilidade"
+    },
+    "Halfling": {
+      "name": "Pequenino"
+    },
+    "Orc": {
+      "name": "Orc"
+    },
+    "Goblin": {
+      "name": "Goblin"
+    },
+    "Unshakeable": {
+      "name": "Inabalável"
+    },
+    "Amphibious": {
+      "name": "Anfíbio"
+    },
+    "High Stamina": {
+      "name": "Resiliência"
+    },
+    "Faun": {
+      "name": "Fauno"
+    },
+    "Ribbet": {
+      "name": "Quacho"
+    },
+    "Fearless": {
+      "name": "Destemido"
+    },
+    "Fungril": {
+      "name": "Fungril"
+    },
+    "Thick Skin": {
+      "name": "Pele Espessa"
+    },
+    "Celestial Trance": {
+      "name": "Transe Celestial"
+    },
+    "Luckbender": {
+      "name": "Testar a Sorte"
+    },
+    "Retract": {
+      "name": "Retração"
+    },
+    "Drakona": {
+      "name": "Drakona"
+    },
+    "Reach": {
+      "name": "Alcance"
+    },
+    "Wings": {
+      "name": "Asas"
+    },
+    "Death Connection": {
+      "name": "Vínculo Mortal"
+    },
+    "Faerie": {
+      "name": "Fada"
+    },
+    "Tusks": {
+      "name": "Presas"
+    },
+    "Surefooted": {
+      "name": "Passo Firme"
+    },
+    "Retracting Claws": {
+      "name": "Garras Retráteis"
+    },
+    "Internal Compass": {
+      "name": "Senso de Direção"
+    },
+    "Galapa": {
+      "name": "Galapa"
+    },
+    "Clank": {
+      "name": "Clank"
+    },
+    "Purposeful Design": {
+      "name": "Projeto Intencional"
+    },
+    "Kick": {
+      "name": "Coice"
+    },
+    "Infernis": {
+      "name": "Infernis"
+    },
+    "Firbolg": {
+      "name": "Firbolg"
+    },
+    "Dread Visage": {
+      "name": "Aspecto Apavorante"
+    },
+    "Feline Instincts": {
+      "name": "Instinto Felino"
+    },
+    "Caprine Leap": {
+      "name": "Salto Caprino"
+    },
+    "Long Tongue": {
+      "name": "Linguarudo"
+    },
+    "Dwarf": {
+      "name": "Anão"
+    },
+    "Elf": {
+      "name": "Elfo"
+    },
+    "Elemental Breath": {
+      "name": "Sopro Elemental"
+    },
+    "Natural Climber": {
+      "name": "Escalador Natural"
+    },
+    "Endurance": {
+      "name": "Resistência"
+    },
+    "Scales": {
+      "name": "Escamas"
+    },
+    "Human": {
+      "name": "Humano"
+    },
+    "Katari": {
+      "name": "Katari"
+    }
+  }
+}

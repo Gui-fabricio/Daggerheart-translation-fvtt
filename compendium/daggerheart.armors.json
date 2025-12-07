@@ -1,0 +1,117 @@
+{
+  "label": "Armors",
+  "folders": {
+    "Tier 4": "Tier 4",
+    "Tier 1": "Tier 1",
+    "Tier 2": "Tier 2",
+    "Tier 3": "Tier 3",
+    "Special": "Special"
+  },
+  "entries": {
+    "Full Fortified Armor": {
+      "name": "Full Fortified Armor"
+    },
+    "Savior Chainmail": {
+      "name": "Savior Chainmail"
+    },
+    "Improved Full Plate Armor": {
+      "name": "Improved Full Plate Armor"
+    },
+    "Monett's Cloak": {
+      "name": "Monett's Cloak"
+    },
+    "Legendary Chainmail Armor": {
+      "name": "Legendary Chainmail Armor"
+    },
+    "Bare Bones": {
+      "name": "Bare Bones"
+    },
+    "Improved Chainmail Armor": {
+      "name": "Improved Chainmail Armor"
+    },
+    "Advanced Chainmail Armor": {
+      "name": "Advanced Chainmail Armor"
+    },
+    "Veritas Opal Armor": {
+      "name": "Veritas Opal Armor"
+    },
+    "Runes of Fortification": {
+      "name": "Runes of Fortification"
+    },
+    "Tyris Soft Armor": {
+      "name": "Tyris Soft Armor"
+    },
+    "Elundrian Chain Mail": {
+      "name": "Elundrian Chain Mail"
+    },
+    "Spiked Plate Armor": {
+      "name": "Spiked Plate Armor"
+    },
+    "Legendary Full Plate Armor": {
+      "name": "Legendary Full Plate Armor"
+    },
+    "Legendary Leather Armor": {
+      "name": "Legendary Leather Armor"
+    },
+    "Full Plate Armor": {
+      "name": "Full Plate Armor"
+    },
+    "Bellamoi Fine Armor": {
+      "name": "Bellamoi Fine Armor"
+    },
+    "Emberwoven Armor": {
+      "name": "Emberwoven Armor"
+    },
+    "Legendary Gambeson Armor": {
+      "name": "Legendary Gambeson Armor"
+    },
+    "Advanced Full Plate Armor": {
+      "name": "Advanced Full Plate Armor"
+    },
+    "Harrowbone Armor": {
+      "name": "Harrowbone Armor"
+    },
+    "Advanced Gambeson Armor": {
+      "name": "Advanced Gambeson Armor"
+    },
+    "Dunamis Silkchain": {
+      "name": "Dunamis Silkchain"
+    },
+    "Chainmail Armor": {
+      "name": "Chainmail Armor"
+    },
+    "Advanced Leather Armor": {
+      "name": "Advanced Leather Armor"
+    },
+    "Improved Gambeson Armor": {
+      "name": "Improved Gambeson Armor"
+    },
+    "Bladefare Armor": {
+      "name": "Bladefare Armor"
+    },
+    "Dragonscale Armor": {
+      "name": "Dragonscale Armor"
+    },
+    "Leather Armor": {
+      "name": "Leather Armor"
+    },
+    "Improved Leather Armor": {
+      "name": "Improved Leather Armor"
+    },
+    "Runetan Floating Armor": {
+      "name": "Runetan Floating Armor"
+    },
+    "Rosewild Armor": {
+      "name": "Rosewild Armor"
+    },
+    "Irontree Breastplate Armor": {
+      "name": "Irontree Breastplate Armor"
+    },
+    "Channeling Armor": {
+      "name": "Channeling Armor"
+    },
+    "Gambeson Armor": {
+      "name": "Gambeson Armor"
+    }
+  }
+}

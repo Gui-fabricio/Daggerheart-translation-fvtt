@@ -1,0 +1,184 @@
+{
+  "label": "Classes",
+  "folders": {
+    "Class Features": "Class Features",
+    "Seraph": "Seraph",
+    "Class Items": "Class Items",
+    "Bard": "Bard",
+    "Druid": "Druid",
+    "Guardian": "Guardian",
+    "Ranger": "Ranger",
+    "Rogue": "Rogue",
+    "Warrior": "Warrior",
+    "Wizard": "Wizard",
+    "Sorcerer": "Sorcerer",
+    "Standard Take": "Standard Take"
+  },
+  "entries": {
+    "Hold Them Off": {
+      "name": "Hold Them Off"
+    },
+    "Attack Of Opportunity": {
+      "name": "Attack Of Opportunity"
+    },
+    "Cloaked": {
+      "name": "Cloaked"
+    },
+    "Wizard": {
+      "name": "Wizard"
+    },
+    "Sneak Attack": {
+      "name": "Sneak Attack"
+    },
+    "Seraph": {
+      "name": "Seraph"
+    },
+    "Strange Patterns": {
+      "name": "Strange Patterns"
+    },
+    "Evolution": {
+      "name": "Evolution"
+    },
+    "Broken Compass": {
+      "name": "Broken Compass"
+    },
+    "Whispering Orb": {
+      "name": "Whispering Orb"
+    },
+    "Ranger": {
+      "name": "Ranger"
+    },
+    "A Romance Novel": {
+      "name": "A Romance Novel"
+    },
+    "Arcane Sense": {
+      "name": "Arcane Sense"
+    },
+    "Rogue": {
+      "name": "Rogue"
+    },
+    "Sorcerer": {
+      "name": "Sorcerer"
+    },
+    "Grappling Hook": {
+      "name": "Grappling Hook"
+    },
+    "Drawing Of A Lover": {
+      "name": "Drawing Of A Lover"
+    },
+    "A Sharpening Stone": {
+      "name": "A Sharpening Stone"
+    },
+    "Strange Dirty Pendant": {
+      "name": "Strange Dirty Pendant"
+    },
+    "Make a Scene": {
+      "name": "Make a Scene"
+    },
+    "Channel Raw Power": {
+      "name": "Channel Raw Power"
+    },
+    "Beastform": {
+      "name": "Beastform"
+    },
+    "Unstoppable": {
+      "name": "Unstoppable"
+    },
+    "Rally": {
+      "name": "Rally"
+    },
+    "Prestidigitation": {
+      "name": "Prestidigitation"
+    },
+    "Rally (Level 5)": {
+      "name": "Rally (Level 5)"
+    },
+    "Tiny Elemental Pet": {
+      "name": "Tiny Elemental Pet"
+    },
+    "Secret Key": {
+      "name": "Secret Key"
+    },
+    "Letter(Never Opened)": {
+      "name": "Letter(Never Opened)"
+    },
+    "Prayer Dice": {
+      "name": "Prayer Dice"
+    },
+    "Frontline Tank": {
+      "name": "Frontline Tank"
+    },
+    "Family Heirloom": {
+      "name": "Family Heirloom"
+    },
+    "Druid": {
+      "name": "Druid"
+    },
+    "Bundle of Offerings": {
+      "name": "Bundle of Offerings"
+    },
+    "Minor Illusion": {
+      "name": "Minor Illusion"
+    },
+    "Totem from Mentor": {
+      "name": "Totem from Mentor"
+    },
+    "Combat Training": {
+      "name": "Combat Training"
+    },
+    "Trophy from your First Kill": {
+      "name": "Trophy from your First Kill"
+    },
+    "Untranslated Book": {
+      "name": "Untranslated Book"
+    },
+    "Wildtouch": {
+      "name": "Wildtouch"
+    },
+    "Not This Time": {
+      "name": "Not This Time"
+    },
+    "50ft of Rope": {
+      "name": "50ft of Rope"
+    },
+    "Rogue's Dodge": {
+      "name": "Rogue's Dodge"
+    },
+    "Volatile Magic": {
+      "name": "Volatile Magic"
+    },
+    "Life Support": {
+      "name": "Life Support"
+    },
+    "Guardian": {
+      "name": "Guardian"
+    },
+    "Ranger's Focus": {
+      "name": "Ranger's Focus"
+    },
+    "No Mercy": {
+      "name": "No Mercy"
+    },
+    "Sigil of Your God": {
+      "name": "Sigil of Your God"
+    },
+    "Small Bag (Rocks & Bones)": {
+      "name": "Small Bag (Rocks & Bones)"
+    },
+    "Basic Supplies": {
+      "name": "Basic Supplies"
+    },
+    "Bard": {
+      "name": "Bard"
+    },
+    "Warrior": {
+      "name": "Warrior"
+    },
+    "Set of Forgery Tools": {
+      "name": "Set of Forgery Tools"
+    },
+    "Torch": {
+      "name": "Torch"
+    }
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "label": "Weapons",
+  "folders": {
+    "Tier 1": "Tier 1",
+    "Combat Wheelchairs": "Combat Wheelchairs",
+    "Secondary Weapons": "Secondary Weapons",
+    "Tier 3": "Tier 3",
+    "Tier 4": "Tier 4",
+    "Tier 2": "Tier 2",
+    "Magical Weapons": "Magical Weapons",
+    "Physical Weapons": "Physical Weapons",
+    "Primary Weapons": "Primary Weapons"
+  },
+  "entries": {
+    "Advanced Whip": {
+      "name": "Advanced Whip"
+    },
+    "Legendary Hallowed Axe": {
+      "name": "Legendary Hallowed Axe"
+    },
+    "Yutari Bloodbow": {
+      "name": "Yutari Bloodbow"
+    },
+    "Hammer of Exota": {
+      "name": "Hammer of Exota"
+    },
+    "Advanced Small Dagger": {
+      "name": "Advanced Small Dagger"
+    },
+    "Legendary Longsword": {
+      "name": "Legendary Longsword"
+    },
+    "Legendary Halberd": {
+      "name": "Legendary Halberd"
+    },
+    "Legendary Crossbow": {
+      "name": "Legendary Crossbow"
+    },
+    "Siphoning Gauntlets": {
+      "name": "Siphoning Gauntlets"
+    },
+    "Hammer of Wrath": {
+      "name": "Hammer of Wrath"
+    },
+    "Legendary Quarterstaff": {
+      "name": "Legendary Quarterstaff"
+    },
+    "Broadsword": {
+      "name": "Broadsword"
+    },
+    "Swinging Ropeblade": {
+      "name": "Swinging Ropeblade"
+    },
+    "Legendary Battleaxe": {
+      "name": "Legendary Battleaxe"
+    },
+    "Casting Sword": {
+      "name": "Casting Sword"
+    },
+    "Advanced Scepter": {
+      "name": "Advanced Scepter"
+    },
+    "Legendary Hand Crossbow": {
+      "name": "Legendary Hand Crossbow"
+    },
+    "Advanced Crossbow": {
+      "name": "Advanced Crossbow"
+    },
+    "Improved Grappler": {
+      "name": "Improved Grappler"
+    },
+    "Floating Bladeshards": {
+      "name": "Floating Bladeshards"
+    },
+    "Hand Runes": {
+      "name": "Hand Runes"
+    },
+    "Advanced Greatstaff": {
+      "name": "Advanced Greatstaff"
+    },
+    "Legendary Spear": {
+      "name": "Legendary Spear"
+    },
+    "Returning Blade": {
+      "name": "Returning Blade"
+    },
+    "Improved Crossbow": {
+      "name": "Improved Crossbow"
+    },
+    "Bladed Whip": {
+      "name": "Bladed Whip"
+    },
+    "Improved Shortbow": {
+      "name": "Improved Shortbow"
+    },
+    "Steelforged Halberd": {
+      "name": "Steelforged Halberd"
+    },
+    "Improved Wand": {
+      "name": "Improved Wand"
+    },
+    "Ghostblade": {
+      "name": "Ghostblade"
+    },
+    "Greatsword": {
+      "name": "Greatsword"
+    },
+    "Advanced Grappler": {
+      "name": "Advanced Grappler"
+    },
+    "Advanced Warhammer": {
+      "name": "Advanced Warhammer"
+    },
+    "Widogast Pendant": {
+      "name": "Widogast Pendant"
+    },
+    "Advanced Longsword": {
+      "name": "Advanced Longsword"
+    },
+    "Legendary Round Shield": {
+      "name": "Legendary Round Shield"
+    },
+    "Black Powder Revolver": {
+      "name": "Black Powder Revolver"
+    },
+    "Improved Quarterstaff": {
+      "name": "Improved Quarterstaff"
+    },
+    "Legendary Rapier": {
+      "name": "Legendary Rapier"
+    },
+    "Midas Scythe": {
+      "name": "Midas Scythe"
+    },
+    "Advanced Hallowed Axe": {
+      "name": "Advanced Hallowed Axe"
+    },
+    "Firestaff": {
+      "name": "Firestaff"
+    },
+    "Advanced Light-Frame Wheelchair": {
+      "name": "Advanced Light-Frame Wheelchair"
+    },
+    "Devouring Dagger": {
+      "name": "Devouring Dagger"
+    },
+    "Advanced Halberd": {
+      "name": "Advanced Halberd"
+    },
+    "Tower Shield": {
+      "name": "Tower Shield"
+    },
+    "Cutlass": {
+      "name": "Cutlass"
+    },
+    "Whip": {
+      "name": "Whip"
+    },
+    "Legendary Shortstaff": {
+      "name": "Legendary Shortstaff"
+    },
+    "Legendary Hand Runes": {
+      "name": "Legendary Hand Runes"
+    },
+    "Improved Round Shield": {
+      "name": "Improved Round Shield"
+    },
+    "Ricochet Axes": {
+      "name": "Ricochet Axes"
+    },
+    "Runes of Ruination": {
+      "name": "Runes of Ruination"
+    },
+    "Buckler": {
+      "name": "Buckler"
+    },
+    "Improved Halberd": {
+      "name": "Improved Halberd"
+    },
+    "Improved Greatsword": {
+      "name": "Improved Greatsword"
+    },
+    "Advanced Battleaxe": {
+      "name": "Advanced Battleaxe"
+    },
+    "Curved Dagger": {
+      "name": "Curved Dagger"
+    },
+    "Returning Axe": {
+      "name": "Returning Axe"
+    },
+    "Ego Blade": {
+      "name": "Ego Blade"
+    },
+    "Scepter": {
+      "name": "Scepter"
+    },
+    "Meridian Cutlass": {
+      "name": "Meridian Cutlass"
+    },
+    "Legendary Dagger": {
+      "name": "Legendary Dagger"
+    },
+    "Thistlebow": {
+      "name": "Thistlebow"
+    },
+    "Legendary Scepter": {
+      "name": "Legendary Scepter"
+    },
+    "Advanced Glowing Rings": {
+      "name": "Advanced Glowing Rings"
+    },
+    "Bloodstaff": {
+      "name": "Bloodstaff"
+    },
+    "Legendary Grappler": {
+      "name": "Legendary Grappler"
+    },
+    "Wand": {
+      "name": "Wand"
+    },
+    "Longsword": {
+      "name": "Longsword"
+    },
+    "Elder Bow": {
+      "name": "Elder Bow"
+    },
+    "Advanced Shortbow": {
+      "name": "Advanced Shortbow"
+    },
+    "Advanced Rapier": {
+      "name": "Advanced Rapier"
+    },
+    "Improved Heavy-Frame Wheelchair": {
+      "name": "Improved Heavy-Frame Wheelchair"
+    },
+    "Improved Greatstaff": {
+      "name": "Improved Greatstaff"
+    },
+    "Improved Rapier": {
+      "name": "Improved Rapier"
+    },
+    "Advanced Hand Crossbow": {
+      "name": "Advanced Hand Crossbow"
+    },
+    "Advanced Longbow": {
+      "name": "Advanced Longbow"
+    },
+    "Advanced Greatsword": {
+      "name": "Advanced Greatsword"
+    },
+    "Greatbow": {
+      "name": "Greatbow"
+    },
+    "Legendary Tower Shield": {
+      "name": "Legendary Tower Shield"
+    },
+    "Improved Shortstaff": {
+      "name": "Improved Shortstaff"
+    },
+    "Hand Cannon": {
+      "name": "Hand Cannon"
+    },
+    "Improved Glowing Rings": {
+      "name": "Improved Glowing Rings"
+    },
+    "Improved Arcane-Frame Wheelchair": {
+      "name": "Improved Arcane-Frame Wheelchair"
+    },
+    "Improved Longbow": {
+      "name": "Improved Longbow"
+    },
+    "Spiked Bow": {
+      "name": "Spiked Bow"
+    },
+    "Improved Broadsword": {
+      "name": "Improved Broadsword"
+    },
+    "Advanced Tower Shield": {
+      "name": "Advanced Tower Shield"
+    },
+    "Sledge Axe": {
+      "name": "Sledge Axe"
+    },
+    "Arcane Gauntlets": {
+      "name": "Arcane Gauntlets"
+    },
+    "Advanced Hand Runes": {
+      "name": "Advanced Hand Runes"
+    },
+    "Legendary Glowing Rings": {
+      "name": "Legendary Glowing Rings"
+    },
+    "Legendary Small Dagger": {
+      "name": "Legendary Small Dagger"
+    },
+    "Braveshield": {
+      "name": "Braveshield"
+    },
+    "Bravesword": {
+      "name": "Bravesword"
+    },
+    "Improved Longsword": {
+      "name": "Improved Longsword"
+    },
+    "Hand Sling": {
+      "name": "Hand Sling"
+    },
+    "Legendary Cutlass": {
+      "name": "Legendary Cutlass"
+    },
+    "Legendary Mace": {
+      "name": "Legendary Mace"
+    },
+    "Legendary Heavy-Frame Wheelchair": {
+      "name": "Legendary Heavy-Frame Wheelchair"
+    },
+    "Knuckle Claws": {
+      "name": "Knuckle Claws"
+    },
+    "Improved Returning Blade": {
+      "name": "Improved Returning Blade"
+    },
+    "Blunderbuss": {
+      "name": "Blunderbuss"
+    },
+    "Improved Dagger": {
+      "name": "Improved Dagger"
+    },
+    "Primer Shard": {
+      "name": "Primer Shard"
+    },
+    "Advanced Shortstaff": {
+      "name": "Advanced Shortstaff"
+    },
+    "Spear": {
+      "name": "Spear"
+    },
+    "Ilmari's Rifle": {
+      "name": "Ilmari's Rifle"
+    },
+    "Sword of Light & Flame": {
+      "name": "Sword of Light & Flame"
+    },
+    "Knuckle Blades": {
+      "name": "Knuckle Blades"
+    },
+    "Legendary Longbow": {
+      "name": "Legendary Longbow"
+    },
+    "Hallowed Axe": {
+      "name": "Hallowed Axe"
+    },
+    "Gilded Falchion": {
+      "name": "Gilded Falchion"
+    },
+    "Legendary Warhammer": {
+      "name": "Legendary Warhammer"
+    },
+    "Legendary Whip": {
+      "name": "Legendary Whip"
+    },
+    "Advanced Mace": {
+      "name": "Advanced Mace"
+    },
+    "Advanced Broadsword": {
+      "name": "Advanced Broadsword"
+    },
+    "Advanced Dualstaff": {
+      "name": "Advanced Dualstaff"
+    },
+    "Improved Hand Crossbow": {
+      "name": "Improved Hand Crossbow"
+    },
+    "Mage Orb": {
+      "name": "Mage Orb"
+    },
+    "Arcane-Frame Wheelchair": {
+      "name": "Arcane-Frame Wheelchair"
+    },
+    "Heavy-Frame Wheelchair": {
+      "name": "Heavy-Frame Wheelchair"
+    },
+    "Legendary Light-Frame Wheelchair": {
+      "name": "Legendary Light-Frame Wheelchair"
+    },
+    "Axe of Fortunis": {
+      "name": "Axe of Fortunis"
+    },
+    "Longbow": {
+      "name": "Longbow"
+    },
+    "Greatstaff": {
+      "name": "Greatstaff"
+    },
+    "Improved Light-Frame Wheelchair": {
+      "name": "Improved Light-Frame Wheelchair"
+    },
+    "Warhammer": {
+      "name": "Warhammer"
+    },
+    "Impact Gauntlet": {
+      "name": "Impact Gauntlet"
+    },
+    "Wand of Essek": {
+      "name": "Wand of Essek"
+    },
+    "Scepter of Elias": {
+      "name": "Scepter of Elias"
+    },
+    "Powered Gauntlet": {
+      "name": "Powered Gauntlet"
+    },
+    "Advanced Cutlass": {
+      "name": "Advanced Cutlass"
+    },
+    "Improved Tower Shield": {
+      "name": "Improved Tower Shield"
+    },
+    "Mace": {
+      "name": "Mace"
+    },
+    "Shortsword": {
+      "name": "Shortsword"
+    },
+    "Gilded Bow": {
+      "name": "Gilded Bow"
+    },
+    "Crossbow": {
+      "name": "Crossbow"
+    },
+    "Legendary Shortsword": {
+      "name": "Legendary Shortsword"
+    },
+    "Improved Cutlass": {
+      "name": "Improved Cutlass"
+    },
+    "Advanced Heavy-Frame Wheelchair": {
+      "name": "Advanced Heavy-Frame Wheelchair"
+    },
+    "Improved Dualstaff": {
+      "name": "Improved Dualstaff"
+    },
+    "Extended Polearm": {
+      "name": "Extended Polearm"
+    },
+    "Battleaxe": {
+      "name": "Battleaxe"
+    },
+    "Improved Whip": {
+      "name": "Improved Whip"
+    },
+    "Legendary Arcane-Frame Wheelchair": {
+      "name": "Legendary Arcane-Frame Wheelchair"
+    },
+    "Advanced Arcane Gauntlets": {
+      "name": "Advanced Arcane Gauntlets"
+    },
+    "Advanced Round Shield": {
+      "name": "Advanced Round Shield"
+    },
+    "Retractable Saber": {
+      "name": "Retractable Saber"
+    },
+    "Grappler": {
+      "name": "Grappler"
+    },
+    "Dagger": {
+      "name": "Dagger"
+    },
+    "Light-Frame Wheelchair": {
+      "name": "Light-Frame Wheelchair"
+    },
+    "Labrys Axe": {
+      "name": "Labrys Axe"
+    },
+    "Aantari Bow": {
+      "name": "Aantari Bow"
+    },
+    "Improved Spear": {
+      "name": "Improved Spear"
+    },
+    "Legendary Shortbow": {
+      "name": "Legendary Shortbow"
+    },
+    "Dualstaff": {
+      "name": "Dualstaff"
+    },
+    "Legendary Greatstaff": {
+      "name": "Legendary Greatstaff"
+    },
+    "Magus Revolver": {
+      "name": "Magus Revolver"
+    },
+    "Improved Hand Runes": {
+      "name": "Improved Hand Runes"
+    },
+    "Advanced Wand": {
+      "name": "Advanced Wand"
+    },
+    "Talon Blades": {
+      "name": "Talon Blades"
+    },
+    "Improved Arcane Gauntlets": {
+      "name": "Improved Arcane Gauntlets"
+    },
+    "Advanced Arcane-Frame Wheelchair": {
+      "name": "Advanced Arcane-Frame Wheelchair"
+    },
+    "Legendary Returning Blade": {
+      "name": "Legendary Returning Blade"
+    },
+    "Quarterstaff": {
+      "name": "Quarterstaff"
+    },
+    "Advanced Dagger": {
+      "name": "Advanced Dagger"
+    },
+    "Round Shield": {
+      "name": "Round Shield"
+    },
+    "Blessed Anlace": {
+      "name": "Blessed Anlace"
+    },
+    "Improved Small Dagger": {
+      "name": "Improved Small Dagger"
+    },
+    "Dual-Ended Sword": {
+      "name": "Dual-Ended Sword"
+    },
+    "Improved Battleaxe": {
+      "name": "Improved Battleaxe"
+    },
+    "Legendary Dualstaff": {
+      "name": "Legendary Dualstaff"
+    },
+    "Advanced Shortsword": {
+      "name": "Advanced Shortsword"
+    },
+    "Shortbow": {
+      "name": "Shortbow"
+    },
+    "Advanced Spear": {
+      "name": "Advanced Spear"
+    },
+    "Improved Warhammer": {
+      "name": "Improved Warhammer"
+    },
+    "Keeper's Staff": {
+      "name": "Keeper's Staff"
+    },
+    "Halberd": {
+      "name": "Halberd"
+    },
+    "Improved Shortsword": {
+      "name": "Improved Shortsword"
+    },
+    "Advanced Returning Blade": {
+      "name": "Advanced Returning Blade"
+    },
+    "Wand of Enthrallment": {
+      "name": "Wand of Enthrallment"
+    },
+    "Parrying Dagger": {
+      "name": "Parrying Dagger"
+    },
+    "Improved Scepter": {
+      "name": "Improved Scepter"
+    },
+    "Fusion Gloves": {
+      "name": "Fusion Gloves"
+    },
+    "Legendary Arcane Gauntlets": {
+      "name": "Legendary Arcane Gauntlets"
+    },
+    "Shortstaff": {
+      "name": "Shortstaff"
+    },
+    "Spiked Shield": {
+      "name": "Spiked Shield"
+    },
+    "Improved Hallowed Axe": {
+      "name": "Improved Hallowed Axe"
+    },
+    "Glowing Rings": {
+      "name": "Glowing Rings"
+    },
+    "Small Dagger": {
+      "name": "Small Dagger"
+    },
+    "Legendary Wand": {
+      "name": "Legendary Wand"
+    },
+    "Flickerfly Blade": {
+      "name": "Flickerfly Blade"
+    },
+    "Double Flail": {
+      "name": "Double Flail"
+    },
+    "Legendary Broadsword": {
+      "name": "Legendary Broadsword"
+    },
+    "Finehair Bow": {
+      "name": "Finehair Bow"
+    },
+    "War Scythe": {
+      "name": "War Scythe"
+    },
+    "Urok Broadsword": {
+      "name": "Urok Broadsword"
+    },
+    "Advanced Quarterstaff": {
+      "name": "Advanced Quarterstaff"
+    },
+    "Legendary Greatsword": {
+      "name": "Legendary Greatsword"
+    },
+    "Improved Mace": {
+      "name": "Improved Mace"
+    },
+    "Rapier": {
+      "name": "Rapier"
+    },
+    "Hand Crossbow": {
+      "name": "Hand Crossbow"
+    }
+  }
+}

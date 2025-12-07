@@ -1,0 +1,177 @@
+{
+  "label": "Beastforms",
+  "folders": {
+    "Tier 3": "Tier 3",
+    "Tier 2": "Tier 2",
+    "Tier 4": "Tier 4",
+    "Tier 1": "Tier 1",
+    "Beastform Features": "Beastform Features"
+  },
+  "entries": {
+    "Takedown": {
+      "name": "Takedown"
+    },
+    "Striking Serpent": {
+      "name": "Striking Serpent"
+    },
+    "Venomous Bite": {
+      "name": "Venomous Bite"
+    },
+    "Pouncing Predator": {
+      "name": "Pouncing Predator"
+    },
+    "Terrible Lizard": {
+      "name": "Terrible Lizard"
+    },
+    "Armored Sentry": {
+      "name": "Armored Sentry"
+    },
+    "Hobbling Strike": {
+      "name": "Hobbling Strike"
+    },
+    "Rampage": {
+      "name": "Rampage"
+    },
+    "Mighty Lizard": {
+      "name": "Mighty Lizard"
+    },
+    "Massive Stride": {
+      "name": "Massive Stride"
+    },
+    "Trample": {
+      "name": "Trample"
+    },
+    "Stalking Arachnid": {
+      "name": "Stalking Arachnid"
+    },
+    "Nimble Grazer": {
+      "name": "Nimble Grazer"
+    },
+    "Webslinger": {
+      "name": "Webslinger"
+    },
+    "Demolish": {
+      "name": "Demolish"
+    },
+    "Carrier": {
+      "name": "Carrier"
+    },
+    "Bird's-Eye View": {
+      "name": "Bird's-Eye View"
+    },
+    "Fleet": {
+      "name": "Fleet"
+    },
+    "Devastating Strikes": {
+      "name": "Devastating Strikes"
+    },
+    "Aquatic Predator": {
+      "name": "Aquatic Predator"
+    },
+    "Snapping Strike": {
+      "name": "Snapping Strike"
+    },
+    "Undaunted": {
+      "name": "Undaunted"
+    },
+    "Fragile": {
+      "name": "Fragile"
+    },
+    "Deadly Raptor": {
+      "name": "Deadly Raptor"
+    },
+    "Physical Defense": {
+      "name": "Physical Defense"
+    },
+    "Mythic Hybrid": {
+      "name": "Mythic Hybrid"
+    },
+    "Pack Predator": {
+      "name": "Pack Predator"
+    },
+    "Thick Hide": {
+      "name": "Thick Hide"
+    },
+    "Elusive Prey": {
+      "name": "Elusive Prey"
+    },
+    "Agile Scout": {
+      "name": "Agile Scout"
+    },
+    "Great Predator": {
+      "name": "Great Predator"
+    },
+    "Great Winged Beast": {
+      "name": "Great Winged Beast"
+    },
+    "Warning Hiss": {
+      "name": "Warning Hiss"
+    },
+    "Pack Hunting": {
+      "name": "Pack Hunting"
+    },
+    "Household Friend": {
+      "name": "Household Friend"
+    },
+    "Mythic Aerial Hunter": {
+      "name": "Mythic Aerial Hunter"
+    },
+    "Vicious Maul": {
+      "name": "Vicious Maul"
+    },
+    "Companion": {
+      "name": "Companion"
+    },
+    "Cannonball": {
+      "name": "Cannonball"
+    },
+    "Mythic Beast": {
+      "name": "Mythic Beast"
+    },
+    "Aquatic": {
+      "name": "Aquatic"
+    },
+    "Powerful Beast": {
+      "name": "Powerful Beast"
+    },
+    "Winged Beast": {
+      "name": "Winged Beast"
+    },
+    "Legendary Beast": {
+      "name": "Legendary Beast"
+    },
+    "Armored Shell": {
+      "name": "Armored Shell"
+    },
+    "Massive Behemoth": {
+      "name": "Massive Behemoth"
+    },
+    "Aquatic Scout": {
+      "name": "Aquatic Scout"
+    },
+    "Legendary Hybrid": {
+      "name": "Legendary Hybrid"
+    },
+    "Ocean Master": {
+      "name": "Ocean Master"
+    },
+    "Venomous Strike": {
+      "name": "Venomous Strike"
+    },
+    "Unyielding": {
+      "name": "Unyielding"
+    },
+    "Epic Aquatic Beast": {
+      "name": "Epic Aquatic Beast"
+    },
+    "Agile": {
+      "name": "Agile"
+    },
+    "Hollow Bones": {
+      "name": "Hollow Bones"
+    },
+    "Mighty Strider": {
+      "name": "Mighty Strider"
+    }
+  }
+}

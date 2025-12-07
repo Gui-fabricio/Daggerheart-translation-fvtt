@@ -1,0 +1,62 @@
+{
+  "label": "Communities",
+  "folders": {
+    "Community Features": "Community Features"
+  },
+  "entries": {
+    "Know the Tide": {
+      "name": "Know the Tide"
+    },
+    "Nomadic Pack": {
+      "name": "Nomadic Pack"
+    },
+    "Dedicated": {
+      "name": "Dedicated"
+    },
+    "Wanderborne": {
+      "name": "Wanderborne"
+    },
+    "Privilege": {
+      "name": "Privilege"
+    },
+    "Wildborne": {
+      "name": "Wildborne"
+    },
+    "Highborne": {
+      "name": "Highborne"
+    },
+    "Steady": {
+      "name": "Steady"
+    },
+    "Well-Read": {
+      "name": "Well-Read"
+    },
+    "Lightfoot": {
+      "name": "Lightfoot"
+    },
+    "Orderborne": {
+      "name": "Orderborne"
+    },
+    "Ridgeborne": {
+      "name": "Ridgeborne"
+    },
+    "Loreborne": {
+      "name": "Loreborne"
+    },
+    "Scoundrel": {
+      "name": "Scoundrel"
+    },
+    "Low-Light Living": {
+      "name": "Low-Light Living"
+    },
+    "Underborne": {
+      "name": "Underborne"
+    },
+    "Seaborne": {
+      "name": "Seaborne"
+    },
+    "Slyborne": {
+      "name": "Slyborne"
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "label": "Subclasses",
+  "folders": {
+    "Bard": "Bard",
+    "Druid": "Druid",
+    "Guardian": "Guardian",
+    "Ranger": "Ranger",
+    "Rogue": "Rogue",
+    "Warrior": "Warrior",
+    "Seraph": "Seraph",
+    "Wizard": "Wizard",
+    "Sorcerer": "Sorcerer",
+    "Foundation Features": "Foundation Features",
+    "Specialization Features": "Specialization Features",
+    "Mastery Features": "Mastery Features",
+    "Subclass Features": "Subclass Features"
+  },
+  "entries": {
+    "Accomplished": {
+      "name": "Accomplished"
+    },
+    "Slayer": {
+      "name": "Slayer"
+    },
+    "Thrive in Chaos": {
+      "name": "Thrive in Chaos"
+    },
+    "Brilliant": {
+      "name": "Brilliant"
+    },
+    "Warden’s Protection": {
+      "name": "Warden’s Protection"
+    },
+    "Elemental Aura": {
+      "name": "Elemental Aura"
+    },
+    "Enchanted Aid": {
+      "name": "Enchanted Aid"
+    },
+    "Unrelenting": {
+      "name": "Unrelenting"
+    },
+    "School Of War": {
+      "name": "School Of War"
+    },
+    "Eloquent": {
+      "name": "Eloquent"
+    },
+    "Iron Will": {
+      "name": "Iron Will"
+    },
+    "Well-Connected": {
+      "name": "Well-Connected"
+    },
+    "Undaunted": {
+      "name": "Undaunted"
+    },
+    "Have No Fear": {
+      "name": "Have No Fear"
+    },
+    "Syndicate": {
+      "name": "Syndicate"
+    },
+    "Gifted Performer": {
+      "name": "Gifted Performer"
+    },
+    "Heart of a Poet": {
+      "name": "Heart of a Poet"
+    },
+    "Elusive Predator": {
+      "name": "Elusive Predator"
+    },
+    "Face Your Fear": {
+      "name": "Face Your Fear"
+    },
+    "Nemesis": {
+      "name": "Nemesis"
+    },
+    "Sacred Resonance": {
+      "name": "Sacred Resonance"
+    },
+    "Elemental Dominion": {
+      "name": "Elemental Dominion"
+    },
+    "Fleeting Shadow": {
+      "name": "Fleeting Shadow"
+    },
+    "Partner-in-Arms": {
+      "name": "Partner-in-Arms"
+    },
+    "Primal Origin": {
+      "name": "Primal Origin"
+    },
+    "Sparing Touch": {
+      "name": "Sparing Touch"
+    },
+    "Weapon Specialist": {
+      "name": "Weapon Specialist"
+    },
+    "Perfect Recall": {
+      "name": "Perfect Recall"
+    },
+    "Devout": {
+      "name": "Devout"
+    },
+    "Defender": {
+      "name": "Defender"
+    },
+    "Regeneration": {
+      "name": "Regeneration"
+    },
+    "Wings of Light": {
+      "name": "Wings of Light"
+    },
+    "Divine Wielder": {
+      "name": "Divine Wielder"
+    },
+    "Companion": {
+      "name": "Companion"
+    },
+    "Spirit Weapon": {
+      "name": "Spirit Weapon"
+    },
+    "Call Of The Brave": {
+      "name": "Call Of The Brave"
+    },
+    "Rousing Speech": {
+      "name": "Rousing Speech"
+    },
+    "Reliable Backup": {
+      "name": "Reliable Backup"
+    },
+    "Ruthless Predator": {
+      "name": "Ruthless Predator"
+    },
+    "Vengeance": {
+      "name": "Vengeance"
+    },
+    "Beastbound": {
+      "name": "Beastbound"
+    },
+    "Natural Evasion": {
+      "name": "Natural Evasion"
+    },
+    "Manipulate Magic": {
+      "name": "Manipulate Magic"
+    },
+    "Warden of the Elements": {
+      "name": "Warden of the Elements"
+    },
+    "Unwavering": {
+      "name": "Unwavering"
+    },
+    "Wordsmith": {
+      "name": "Wordsmith"
+    },
+    "Battlemage": {
+      "name": "Battlemage"
+    },
+    "Prepared": {
+      "name": "Prepared"
+    },
+    "Power of the Gods": {
+      "name": "Power of the Gods"
+    },
+    "Maestro": {
+      "name": "Maestro"
+    },
+    "Call Of The Slayer": {
+      "name": "Call Of The Slayer"
+    },
+    "Contacts Everywhere": {
+      "name": "Contacts Everywhere"
+    },
+    "Comaraderie": {
+      "name": "Comaraderie"
+    },
+    "Martial Preparation": {
+      "name": "Martial Preparation"
+    },
+    "Elementalist": {
+      "name": "Elementalist"
+    },
+    "Rise to the Challenge": {
+      "name": "Rise to the Challenge"
+    },
+    "Epic Poetry": {
+      "name": "Epic Poetry"
+    },
+    "Clarity of Nature": {
+      "name": "Clarity of Nature"
+    },
+    "Elemental Incarnation": {
+      "name": "Elemental Incarnation"
+    },
+    "Ascendant": {
+      "name": "Ascendant"
+    },
+    "Dark Cloud": {
+      "name": "Dark Cloud"
+    },
+    "Nightwalker": {
+      "name": "Nightwalker"
+    },
+    "Shadow Stepper": {
+      "name": "Shadow Stepper"
+    },
+    "Fueled by Fear": {
+      "name": "Fueled by Fear"
+    },
+    "Battle-Bonded": {
+      "name": "Battle-Bonded"
+    },
+    "Loyal Protector": {
+      "name": "Loyal Protector"
+    },
+    "Expert Training": {
+      "name": "Expert Training"
+    },
+    "Vanishing Act": {
+      "name": "Vanishing Act"
+    },
+    "Act of Reprisal": {
+      "name": "Act of Reprisal"
+    },
+    "Virtuoso": {
+      "name": "Virtuoso"
+    },
+    "Troubadour": {
+      "name": "Troubadour"
+    },
+    "Apex Predator": {
+      "name": "Apex Predator"
+    },
+    "Courage": {
+      "name": "Courage"
+    },
+    "Regenerative Reach": {
+      "name": "Regenerative Reach"
+    },
+    "Revenge": {
+      "name": "Revenge"
+    },
+    "Conjure Shield": {
+      "name": "Conjure Shield"
+    },
+    "School Of Knowledge": {
+      "name": "School Of Knowledge"
+    },
+    "Battle Ritual": {
+      "name": "Battle Ritual"
+    },
+    "Stalwart": {
+      "name": "Stalwart"
+    },
+    "Transcendence": {
+      "name": "Transcendence"
+    },
+    "Ethereal Visage": {
+      "name": "Ethereal Visage"
+    },
+    "Adrenaline": {
+      "name": "Adrenaline"
+    },
+    "Advanced Training": {
+      "name": "Advanced Training"
+    },
+    "Path Forward": {
+      "name": "Path Forward"
+    },
+    "Adept": {
+      "name": "Adept"
+    },
+    "Honed Expertise": {
+      "name": "Honed Expertise"
+    },
+    "Elemental Origin": {
+      "name": "Elemental Origin"
+    },
+    "At Ease": {
+      "name": "At Ease"
+    },
+    "Loyal Friend": {
+      "name": "Loyal Friend"
+    },
+    "Warden of Renewal": {
+      "name": "Warden of Renewal"
+    },
+    "Winged Sentinel": {
+      "name": "Winged Sentinel"
+    },
+    "Arcane Charge": {
+      "name": "Arcane Charge"
+    },
+    "Wayfinder": {
+      "name": "Wayfinder"
+    }
+  }
+}

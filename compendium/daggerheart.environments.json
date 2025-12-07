@@ -1,0 +1,359 @@
+{
+  "label": "Environments",
+  "folders": {
+    "Tier 1": "Tier 1",
+    "Tier 4": "Tier 4",
+    "Tier 3": "Tier 3",
+    "Tier 2": "Tier 2"
+  },
+  "entries": {
+    "Castle Siege": {
+      "name": "Castle Siege",
+      "tokenName": "Castle Siege",
+      "items": {
+        "Secret Entrance": {
+          "name": "Secret Entrance"
+        },
+        "Siege Weapons (Environment Change)": {
+          "name": "Siege Weapons (Environment Change)"
+        },
+        "Reinforcements!": {
+          "name": "Reinforcements!"
+        },
+        "Collateral Damage": {
+          "name": "Collateral Damage"
+        }
+      }
+    },
+    "Chaos Realm": {
+      "name": "Chaos Realm",
+      "tokenName": "Chaos Realm",
+      "items": {
+        "Impossible Architecture": {
+          "name": "Impossible Architecture"
+        },
+        "Everything You Are This Place Will Take from You": {
+          "name": "Everything You Are This Place Will Take from You"
+        },
+        "Unmaking": {
+          "name": "Unmaking"
+        },
+        "Outer Realms Predators": {
+          "name": "Outer Realms Predators"
+        },
+        "Disorientating Reality": {
+          "name": "Disorientating Reality"
+        }
+      }
+    },
+    "Divine Usurpation": {
+      "name": "Divine Usurpation",
+      "tokenName": "Divine Usurpation",
+      "items": {
+        "Final Preparations": {
+          "name": "Final Preparations"
+        },
+        "Divine Blessing": {
+          "name": "Divine Blessing"
+        },
+        "Difilers Abound": {
+          "name": "Difilers Abound"
+        },
+        "Godslayer": {
+          "name": "Godslayer"
+        },
+        "Beginning of the End": {
+          "name": "Beginning of the End"
+        },
+        "Ritual Nexus": {
+          "name": "Ritual Nexus"
+        }
+      }
+    },
+    "Pitched Battle": {
+      "name": "Pitched Battle",
+      "tokenName": "Pitched Battle",
+      "items": {
+        "Pitched Battle": {
+          "name": "Pitched Battle"
+        },
+        "Raze and Pillage": {
+          "name": "Raze and Pillage"
+        },
+        "War Magic": {
+          "name": "War Magic"
+        },
+        "Reinforcements": {
+          "name": "Reinforcements"
+        }
+      }
+    },
+    "Bustling Marketplace": {
+      "name": "Bustling Marketplace",
+      "tokenName": "Bustling Marketplace",
+      "items": {
+        "Tip the Scales": {
+          "name": "Tip the Scales"
+        },
+        "Unexpected Find": {
+          "name": "Unexpected Find"
+        },
+        "Sticky Fingers": {
+          "name": "Sticky Fingers"
+        },
+        "Crowd Closes In": {
+          "name": "Crowd Closes In"
+        }
+      }
+    },
+    "Cliffside Ascent": {
+      "name": "Cliffside Ascent",
+      "tokenName": "Cliffside Ascent",
+      "items": {
+        "The Climb": {
+          "name": "The Climb"
+        },
+        "Pitons Left Behind": {
+          "name": "Pitons Left Behind"
+        },
+        "Fall": {
+          "name": "Fall"
+        }
+      }
+    },
+    "Haunted City": {
+      "name": "Haunted City",
+      "tokenName": "Haunted City",
+      "items": {
+        "Buried Knowledge": {
+          "name": "Buried Knowledge"
+        },
+        "Ghostly Form": {
+          "name": "Ghostly Form"
+        },
+        "Dead Ends": {
+          "name": "Dead Ends"
+        },
+        "Apocalypse Then": {
+          "name": "Apocalypse Then"
+        }
+      }
+    },
+    "Cult Ritual": {
+      "name": "Cult Ritual",
+      "tokenName": "Cult Ritual",
+      "items": {
+        "Desecrated Ground": {
+          "name": "Desecrated Ground"
+        },
+        "Blashemous Might": {
+          "name": "Blashemous Might"
+        },
+        "The Summoning": {
+          "name": "The Summoning"
+        },
+        "Complete the Ritual": {
+          "name": "Complete the Ritual"
+        }
+      }
+    },
+    "Outpost Town": {
+      "name": "Outpost Town",
+      "tokenName": "Outpost Town",
+      "items": {
+        "Rumors Abound": {
+          "name": "Rumors Abound"
+        },
+        "Society of the Broken Compass": {
+          "name": "Society of the Broken Compass"
+        },
+        "Rival Party": {
+          "name": "Rival Party"
+        },
+        "It'd Be a Shame If Something Happened to Your Store": {
+          "name": "It'd Be a Shame If Something Happened to Your Store"
+        },
+        "Wrong Place, Wrong Time": {
+          "name": "Wrong Place, Wrong Time"
+        }
+      }
+    },
+    "Mountain Pass": {
+      "name": "Mountain Pass",
+      "tokenName": "Mountain Pass",
+      "items": {
+        "Engraved Sigils": {
+          "name": "Engraved Sigils"
+        },
+        "Avalanche": {
+          "name": "Avalanche"
+        },
+        "Raptor Nest": {
+          "name": "Raptor Nest"
+        },
+        "Icy Winds": {
+          "name": "Icy Winds"
+        }
+      }
+    },
+    "Local Tavern": {
+      "name": "Local Tavern",
+      "tokenName": "Local Tavern",
+      "items": {
+        "What's the Talk of the Town?": {
+          "name": "What's the Talk of the Town?"
+        },
+        "Sing For Your Supper": {
+          "name": "Sing For Your Supper"
+        },
+        "Mysterious Stranger": {
+          "name": "Mysterious Stranger"
+        },
+        "Someone Comes to Town": {
+          "name": "Someone Comes to Town"
+        },
+        "Bar Fight": {
+          "name": "Bar Fight"
+        }
+      }
+    },
+    "Hallowed Temple": {
+      "name": "Hallowed Temple",
+      "tokenName": "Hallowed Temple",
+      "items": {
+        "A Place of Healing": {
+          "name": "A Place of Healing"
+        },
+        "Divine Guidance": {
+          "name": "Divine Guidance"
+        },
+        "Relentless Hope": {
+          "name": "Relentless Hope"
+        },
+        "Divine Censure": {
+          "name": "Divine Censure"
+        }
+      }
+    },
+    "Necromancer’s Ossuary": {
+      "name": "Necromancer’s Ossuary",
+      "tokenName": "Necromancer’s Ossuary",
+      "items": {
+        "No Place for the Living": {
+          "name": "No Place for the Living"
+        },
+        "Centuries of Knowledge": {
+          "name": "Centuries of Knowledge"
+        },
+        "Skeletal Burst": {
+          "name": "Skeletal Burst"
+        },
+        "Aura of Death": {
+          "name": "Aura of Death"
+        },
+        "They Just Keep Coming!": {
+          "name": "They Just Keep Coming!"
+        }
+      }
+    },
+    "Imperial Court": {
+      "name": "Imperial Court",
+      "tokenName": "Imperial Court",
+      "items": {
+        "All Roads Lead Here": {
+          "name": "All Roads Lead Here"
+        },
+        "Rival Vassals": {
+          "name": "Rival Vassals"
+        },
+        "The Gravity of Empire": {
+          "name": "The Gravity of Empire"
+        },
+        "Imperial Decree": {
+          "name": "Imperial Decree"
+        },
+        "Eyes Everywhere": {
+          "name": "Eyes Everywhere"
+        }
+      }
+    },
+    "Burning Heart of the Woods": {
+      "name": "Burning Heart of the Woods",
+      "tokenName": "Burning Heart of the Woods",
+      "items": {
+        "Chaos Magic Locus": {
+          "name": "Chaos Magic Locus"
+        },
+        "The Indigo Flame": {
+          "name": "The Indigo Flame"
+        },
+        "Grasping Vines": {
+          "name": "Grasping Vines"
+        },
+        "Charcoal Constructs": {
+          "name": "Charcoal Constructs"
+        },
+        "Choking Ash": {
+          "name": "Choking Ash"
+        }
+      }
+    },
+    "Abandoned Grove": {
+      "name": "Abandoned Grove",
+      "tokenName": "Abandoned Grove",
+      "items": {
+        "Overgrown Battlefield": {
+          "name": "Overgrown Battlefield"
+        },
+        "Barbed Vines": {
+          "name": "Barbed Vines"
+        },
+        "You Are Not Welcome Here": {
+          "name": "You Are Not Welcome Here"
+        },
+        "Defiler": {
+          "name": "Defiler"
+        }
+      }
+    },
+    "Raging River": {
+      "name": "Raging River",
+      "tokenName": "Raging River",
+      "items": {
+        "Dangerous Crossing": {
+          "name": "Dangerous Crossing"
+        },
+        "Undertow": {
+          "name": "Undertow"
+        },
+        "Patient Hunter": {
+          "name": "Patient Hunter"
+        }
+      }
+    },
+    "Ambushed": {
+      "name": "Ambushed",
+      "tokenName": "Ambushed",
+      "items": {
+        "Relative Strength": {
+          "name": "Relative Strength"
+        },
+        "Surprise": {
+          "name": "Surprise"
+        }
+      }
+    },
+    "Ambushers": {
+      "name": "Ambushers",
+      "tokenName": "Ambushers",
+      "items": {
+        "Ambushers": {
+          "name": "Ambushers"
+        },
+        "Where Did They Come From?": {
+          "name": "Where Did They Come From?"
+        }
+      }
+    }
+  }
+}
