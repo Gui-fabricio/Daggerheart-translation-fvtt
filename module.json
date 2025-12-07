@@ -3,11 +3,24 @@
   "title": "Daggerheart - Português (Brasil)",
   "description": "Tradução do sistema Daggerheart para o português (Brasil)",
   "version": "0.0.1",
-  "authors": [{"name": "Gui Fabricio"}],
-  "compatibility": {"minimum": 12, "verified": "13"},
-  "esmodules": ["babele-register.js"],
+  "authors": [
+    {
+      "name": "Gui Fabricio"
+    }
+  ],
+  "compatibility": {
+    "minimum": 12,
+    "verified": "13"
+  },
+  "esmodules": [
+    "babele-register.js"
+  ],
   "languages": [
-    {"lang": "pt-BR", "name": "Português (Brasil)", "path": "pt-br.json"}
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "pt-br.json"
+    }
   ],
   "packs": [
     {
@@ -28,13 +41,20 @@
     }
   ],
   "relationships": {
-    "requires": [{"id": "babele", "type": "module"}],
-    "systems": [{"id": "daggerheart"}]
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module"
+      }
+    ],
+    "systems": [
+      {
+        "id": "daggerheart"
+      }
+    ]
   },
-  {
   "manifest": "https://raw.githubusercontent.com/Gui-fabricio/Daggerheart-translation-fvtt/refs/heads/main/module.json",
   "download": "https://github.com/Gui-fabricio/Daggerheart-translation-fvtt/releases/download/v0.0.1/module.zip",
   "url": "https://github.com/Gui-fabricio/Daggerheart-translation-fvtt",
   "manifestPlusVersion": "1.0.0"
-  }
 }
