@@ -1,33 +1,49 @@
 {
-  "id": "Daggerheart-translation-fvtt",
+  "id": "daggerheart-translation-fvtt",
   "title": "Daggerheart - Português (Brasil)",
   "description": "Tradução do sistema Daggerheart para o português (Brasil)",
   "version": "0.0.2",
+
   "authors": [
     {
-      "name": "Gui Fabricio"
+      "name": "Gui Fabricio",
+      "url": "https://github.com/Gui-fabricio"
     }
   ],
-  "minimumCoreVersion": "12",
-  "compatibleCoreVersion": "13",
-  "esmodules": ["babele-register.js"],
-  "url": "https://github.com/Gui-fabricio/Daggerheart-translation-fvtt",
-  "manifest": "https://raw.githubusercontent.com/Gui-fabricio/Daggerheart-translation-fvtt/refs/heads/main/module.json",
-  "download": "https://github.com/Gui-fabricio/Daggerheart-translation-fvtt/archive/refs/heads/main.zip",
-   "languages": [
+
+  "compatibility": {
+    "minimum": 12,
+    "verified": "13"
+  },
+
+  "esmodules": [
+    "babele-register.js"
+  ],
+
+  "languages": [
     {
       "lang": "pt-BR",
       "name": "Português (Brasil)",
       "path": "pt-br.json"
     }
   ],
-  "dependencies": [
+
+  "relationships": {
+    "requires": [
       {
-        "name": "babele",
+        "id": "babele",
+        "type": "module",
         "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/-/raw/master/module/module.json"
       }
     ],
-  "systems": [
-    "daggerheart"
-  ]
+    "systems": [
+      {
+        "id": "daggerheart"
+      }
+    ]
+  },
+
+  "url": "https://github.com/Gui-fabricio/Daggerheart-translation-fvtt",
+  "manifest": "https://raw.githubusercontent.com/Gui-fabricio/Daggerheart-translation-fvtt/refs/heads/main/module.json",
+  "download": "https://github.com/Gui-fabricio/Daggerheart-translation-fvtt/archive/refs/heads/main.zip"
 }
