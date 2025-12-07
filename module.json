@@ -22,24 +22,6 @@
       "path": "pt-br.json"
     }
   ],
-  "packs": [
-    {
-      "name": "tabelas",
-      "label": "Tabelas",
-      "path": "packs/tabelas.db",
-      "type": "RollTable",
-      "module": "daggerheart-pt-br",
-      "private": false
-    },
-    {
-      "name": "ajuda-da-traducao",
-      "label": "Ajuda da Tradução",
-      "path": "packs/ajuda-da-traducao.db",
-      "type": "JournalEntry",
-      "module": "daggerheart-pt-br",
-      "private": false
-    }
-  ],
   "relationships": {
     "requires": [
       {
