@@ -1,0 +1,34 @@
+{
+  "id": "daggerheart-pt-br",
+  "title": "Daggerheart - Português (Brasil)",
+  "description": "Tradução do sistema Daggerheart para o português (Brasil)",
+  "version": "0.0.1",
+  "authors": [{"name": "Gui Fabricio"}],
+  "compatibility": {"minimum": 12, "verified": "13"},
+  "esmodules": ["babele-register.js"],
+  "languages": [
+    {"lang": "pt-BR", "name": "Português (Brasil)", "path": "pt-br.json"}
+  ],
+  "packs": [
+    {
+      "name": "tabelas",
+      "label": "Tabelas",
+      "path": "packs/tabelas.db",
+      "type": "RollTable",
+      "module": "daggerheart-pt-br",
+      "private": false
+    },
+    {
+      "name": "ajuda-da-traducao",
+      "label": "Ajuda da Tradução",
+      "path": "packs/ajuda-da-traducao.db",
+      "type": "JournalEntry",
+      "module": "daggerheart-pt-br",
+      "private": false
+    }
+  ],
+  "relationships": {
+    "requires": [{"id": "babele", "type": "module"}],
+    "systems": [{"id": "daggerheart"}]
+  }
+}
